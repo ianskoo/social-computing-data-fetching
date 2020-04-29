@@ -12,6 +12,9 @@ output_file = cwd +  '/' + output_filename
 
 module_ids = read_module_ids_from_input_file(input_file)
 
+print("\n\n\033[1;35;40m " + str(len(module_ids)) + " modules found in " + input_file + " \n")
+print("\033[1;35;40m Start processing. \n\n")
+
 """
 the array 'fieldnames' below determines which fields will be written to the output file
 simply uncomment / comment in order to activate / deactivate.
@@ -37,15 +40,28 @@ fieldnames = [
     'aggregatedSemesterInformation',
 ]
 
+
 write_header_to_output_file(output_file, fieldnames)
 for module_id in module_ids:
+    print("\033[1;35;40m Processing " + module_id + "...")
     module = Module(module_id)
 
     data = {}
     for attr in fieldnames:
+
+        if attr == 'aggregatedSemesterInformation':
+            for key, value in getattr(module, attr).items():
+                data[key] = value
+            continue
+
         data[attr] = getattr(module, attr)
 
     write_data_to_output_file(output_file, data, fieldnames)
+
+    write_data_to_json(data)
+
+print("\n\n\033[1;32;40m Process finished successful. Check " + output_file + " for the results.\n")
+
 
 
 

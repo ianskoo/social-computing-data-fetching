@@ -1,4 +1,5 @@
 import csv
+import json
 
 def get_filenames():
     print('\n\nIn which file is the list with the module ids?')
@@ -26,6 +27,31 @@ def read_module_ids_from_input_file(filename):
 
         return module_ids
 
+semester_list = [
+    'FS20',
+    'FS19',
+    'FS18',
+    'FS17',
+    'FS16',
+    'FS15',
+    'FS14',
+    'FS13',
+    'FS12',
+    'FS11',
+    'FS10',
+    'HS20',
+    'HS19',
+    'HS18',
+    'HS17',
+    'HS16',
+    'HS15',
+    'HS14',
+    'HS13',
+    'HS12',
+    'HS11',
+    'HS10'
+]
+
 def write_header_to_output_file(filename, fieldnames):
     '''
 
@@ -34,12 +60,16 @@ def write_header_to_output_file(filename, fieldnames):
     :return:
     '''
     with open(filename, 'w') as csv_file:
-        writer = csv.DictWriter(csv_file, fieldnames=fieldnames, delimiter=';')
+        writer = csv.DictWriter(csv_file, fieldnames=fieldnames + semester_list, delimiter=';')
         writer.writeheader()
 
 
 def write_data_to_output_file(filename, data, fieldnames):
     with open(filename, 'a') as csv_file:
-        writer = csv.DictWriter(csv_file, fieldnames=fieldnames, delimiter=';', extrasaction='ignore')
-
+        writer = csv.DictWriter(csv_file, fieldnames=fieldnames + semester_list, delimiter=';', extrasaction='ignore')
         writer.writerow(data)
+
+def write_data_to_json(data):
+    filename = data['module_id'] if data['module_id'] else 'xxx'
+    with open(filename + '.json', 'w') as f:
+        f.write(json.dumps(data, indent=4, sort_keys=True))
