@@ -28,10 +28,67 @@ class Module:
     ]
 
     def __init__(self, module_id):
-        self.__module_id = module_id
+        self.module_id = module_id
         self.__data = self.fetch_module_data(module_id)
         self.__ratings = self.fetch_ratings_data(module_id)
         self.__grades = self.fetch_grades_data(module_id)
+        self.departments = self.__data['departments']
+        self.faculty = self.__data['faculty']
+        self.gradeStatistics = self.__data['gradeStatistics']
+        self.gradeStatistics_average = self.__data['gradeStatistics']["average"]
+        self.gradeStatistics_count = self.__data['gradeStatistics']["count"]
+        self.gradeStatistics_failed = self.__data['gradeStatistics']["failed"]
+        self.gradeStatistics_passed = self.__data['gradeStatistics']["passed"]
+        self.messages = self.__data['messages']
+        self.name = self.__data['name']
+        self.ratingSummary = self.__data['ratingSummary']
+        self.ratingSummary_average = self.__data['ratingSummary']['average']
+        self.ratingSummary_total = self.__data['ratingSummary']['total']
+        self.shortName = self.__data['short_name']
+        self.type = self.__data['type']
+        self.userCount = self.__data['userCount']
+        self.userCount_all = self.__data['userCount']['all']
+        self.aggregatedSemesterInformation = self.get_aggregated_semester_information()
+
+    def get_data(self):
+        # whole data set
+        return self.__data
+
+    def get_aggregated_semester_information(self):
+        """
+        aggregates all information which are specific to a semester and combines them in a
+        dictionary with the semester name as key.
+
+        aggregation = {
+            "FS19": {
+                "semesterDetail": { ... },
+                "gradesDetail": { ... },
+                "userCount": Integer
+            },
+            ...
+        }
+        """
+        aggregation = {}
+
+        for semesterDetail in self.__data['semesters']:
+            period = semesterDetail['period_human']
+            aggregation.setdefault(period, {}).__setitem__('semesterDetail', semesterDetail)
+
+        for userCount in self.userCount['semester']:
+            period_code = userCount['period']
+            period = None
+            for tuple in self.map_semester_period:
+                if tuple[1] == period_code:
+                    period = tuple[0]
+                    break
+            if period:
+                aggregation.setdefault(period, {}).__setitem__('userCount', userCount['count'])
+
+        for gradesInformation in self.__grades['detailed']:
+            period = gradesInformation['semester']
+            aggregation.setdefault(period, {}).__setitem__('gradesDetail', gradesInformation)
+
+        return aggregation
 
     @staticmethod
     def fetch_module_data(module_id):
@@ -74,113 +131,5 @@ class Module:
             print(e)
         else:
             return r
-
-    def get_data(self):
-        # whole data set
-        return self.__data
-
-    def get_departments(self):
-        # departement (usually null)
-        return self.__data['departments']
-
-    def get_faculty(self):
-        # f.ex. "Recht" or "Wirtschaft"
-        return self.__data['faculty']
-
-    def get_gradeStatistics(self):
-        return self.__data['gradeStatistics']
-
-    def get_gradeStatistics_average(self):
-        # all grades averaged
-        return self.__data['gradeStatistics']['average']
-
-    def get_gradeStatistics_count(self):
-        # number of grades available
-        return self.__data['gradeStatistics']['count']
-
-    def get_gradeStatistics_failed(self):
-        # number of failed grades (grade < 4.0)
-        return self.__data['gradeStatistics']['failed']
-
-    def get_gradeStatistics_passed(self):
-        # number of passed grades (grade >= 4.0)
-        return self.__data['gradeStatistics']['passed']
-
-    def get_messages(self):
-        # amount of messages sent in chat
-        return self.__data['messages']
-
-    def get_name(self):
-        # name of the module (f.ex. "Labor and Employment Law")
-        return self.__data['name']
-
-    def get_ratingSummary(self):
-        return self.__data['ratingSummary']
-
-    def get_ratingSummary_average(self):
-        # average of all ratings
-        return self.__data['ratingSummary']['average']
-
-    def get_ratingSummary_total(self):
-        # amount of ratings
-        return self.__data['ratingSummary']['total']
-
-    def get_shortName(self):
-        # f.ex. "Labor and Employment Law"
-        return self.__data['short_name']
-
-    def get_type(self):
-        # f.ex. "COURSE"
-        return self.__data['type']
-
-    def get_module_id(self):
-        # unique id of the module
-        return self.__module_id
-
-    def get_userCount(self):
-        return self.__data['userCount']
-
-    def get_userCount_all(self):
-        # amount of bestande users who booked this module
-        return self.__data['userCount']['all']
-
-    def get_(self):
-        return self.__data['']
-
-    def get_aggregated_semester_information(self):
-        """
-        aggregates all information which are specific to a semester and combines them in a
-        dictionary with the semester name as key.
-
-        aggregation = {
-            "FS19": {
-                "semesterDetail": { ... },
-                "gradesDetail": { ... },
-                "userCount": Integer
-            },
-            ...
-        }
-        """
-        aggregation = {}
-
-        for semesterDetail in self.__data['semesters']:
-            period = semesterDetail['period_human']
-            aggregation.setdefault(period, {}).__setitem__('semesterDetail', semesterDetail)
-
-        for userCount in self.get_userCount()['semester']:
-            period_code = userCount['period']
-            period = None
-            for tuple in self.map_semester_period:
-                if tuple[1] == period_code:
-                    period = tuple[0]
-                    break
-            if period:
-                aggregation.setdefault(period, {}).__setitem__('userCount', userCount['count'])
-
-        for gradesInformation in self.__grades['detailed']:
-            period = gradesInformation['semester']
-            aggregation.setdefault(period, {}).__setitem__('gradesDetail', gradesInformation)
-
-        return aggregation
 
 

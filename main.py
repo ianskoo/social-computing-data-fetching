@@ -1,13 +1,51 @@
-import requests
+import os
 from pprint import pprint
-# import os
-import json
-from helper.api_abstraction import *
 from entities.module import Module
+from helper.files import *
 
-module_a = Module(50667400)
+# get filename by console input
+input_filename, output_filename = get_filenames()
 
-pprint(module_a.get_aggregated_semester_information())
+cwd = os.getcwd()
+input_file = cwd + '/' + input_filename
+output_file = cwd +  '/' + output_filename
+
+module_ids = read_module_ids_from_input_file(input_file)
+
+"""
+the array 'fieldnames' below determines which fields will be written to the output file
+simply uncomment / comment in order to activate / deactivate.
+"""
+fieldnames = [
+    'module_id', # unique id of the module
+    # 'departments', # departement (usually null)
+    'faculty', # f.ex. "Recht" or "Wirtschaft"
+    # 'gradeStatistics',
+    'gradeStatistics_average', # all grades averaged
+    'gradeStatistics_count', # number of grades available
+    'gradeStatistics_failed', # number of failed grades (grade < 4.0)
+    'gradeStatistics_passed', # number of passed grades (grade >= 4.0)
+    'messages', # amount of messages sent in chat
+    'name', # name of the module (f.ex. "Labor and Employment Law")
+    # 'ratingSummary',
+    'ratingSummary_average', # average of all ratings
+    'ratingSummary_total', # amount of ratings
+    # 'shortName', # f.ex. "Labor and Employment Law"
+    # 'type', # f.ex. "COURSE"
+    # 'userCount',
+    'userCount_all', # amount of bestande users who booked this module
+    'aggregatedSemesterInformation',
+]
+
+write_header_to_output_file(output_file, fieldnames)
+for module_id in module_ids:
+    module = Module(module_id)
+
+    data = {}
+    for attr in fieldnames:
+        data[attr] = getattr(module, attr)
+
+    write_data_to_output_file(output_file, data, fieldnames)
 
 
 
@@ -16,23 +54,10 @@ pprint(module_a.get_aggregated_semester_information())
 
 
 
-# r = get_course_grades_by_id(50667400)
-# r.json()
-# pprint(r.json())
 
-# for key, value in r.json().items():
-#     print(key, value)
 
-# with open('helper/grades_law.json', 'w') as f:
-#     f.write(json.dumps(r.json(), indent=4, sort_keys=True))
 
-# https://bestande.ch/api/institution/uzh/module/50791765/ratings?offset=0&sort=top
-# https://bestande.ch/api/grades/UZH/50791765
-# https://bestande.ch/api/institution/uzh/module/50791765/examreturns
-# https://bestande.ch/api/institution/uzh/module/50791765/related
-# https://bestande.ch/api/chat/messages?before=1588097534379&limit=30&university=UZH&uni_identifier=50791765
-# https://bestande.ch/api/institution/uzh/module/50791765/semester/HS19/timetable
-# https://bestande.ch/api/institution/uzh/module/50791765
-# https://bestande.ch/api/institution/uzh/person/01016835
+
+
 
 
