@@ -60,7 +60,9 @@ for module_id in module_ids:
 
     write_data_to_json(data)
 
-print("\n\n\033[1;32;40m Process finished successful. Check " + output_file + " for the results.\n")
+print("\n\n\033[1;32;40m Process finished successful.\n")
+print("\033[1;32;40m Check " + output_file + " for the results.")
+print("\033[1;32;40m Check the /json folder for formatted output.")
 
 
 
