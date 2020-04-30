@@ -1,0 +1,1161 @@
+{
+    "FS14": {
+        "semesterDetail": {
+            "additional_information": null,
+            "assessment": null,
+            "audience": "Studierende der Assessmentstufe und Nebenfachstudierende.",
+            "cancellation_end": null,
+            "cancellation_start": null,
+            "comment": null,
+            "content": null,
+            "credit_hours": null,
+            "credits": "6.00000",
+            "description": "Das Modul besteht aus den Veranstaltungen Rechtstheorie und Recht und Religion.\r\n\r\nZum Inhalt dieser Veranstaltungen geben die jeweiligen Veranstaltungsbeschreibungen Auskunft.",
+            "event_series": [
+                {
+                    "category": "EXAM",
+                    "id": "50687690",
+                    "people": [],
+                    "time_label": "to be announced"
+                },
+                {
+                    "category": "EXAM",
+                    "id": "50687689",
+                    "people": [],
+                    "time_label": "to be announced"
+                }
+            ],
+            "exam_literature": null,
+            "grading": "SWISS_HALF_GRADES",
+            "instructors": [],
+            "lecture_notes": null,
+            "links": null,
+            "materials": "",
+            "newest": null,
+            "objective": "Das Modul vermittelt zum einen die Grundlagen der Rechtstheorie. Es soll gleichzeitig helfen, eine kritische und eigenst\u00e4ndige Auseinandersetzung mit strukturellen und normativen Kernaspekten des Rechts zu gew\u00e4hrleisten. Die Bedeutung theoretischer Fragen f\u00fcr die Rechtspraxis wird deutlich gemacht.",
+            "olat": null,
+            "period": 20141,
+            "period_human": "FS14",
+            "prerecognitions": "",
+            "prerequisites": "",
+            "registration_end": "2014-03-14T16:00:00.000Z",
+            "registration_start": "2014-01-16T09:00:00.000Z",
+            "repeatability": "TWICE",
+            "responsible": [
+                {
+                    "_id": "587f7bfe9926d096747668d0",
+                    "first_name": "Matthias",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Mahlmann",
+                    "name": "Dr. Matthias Mahlmann",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr.",
+                    "uni_identifier": "01048925",
+                    "university": "UZH"
+                },
+                {
+                    "_id": "587f7c529926d09674766a47",
+                    "first_name": "Andreas",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Thier",
+                    "name": "Dr. iur. Andreas Thier",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr. iur.",
+                    "uni_identifier": "01025481",
+                    "university": "UZH"
+                }
+            ],
+            "seats_restriction": null,
+            "structure": null,
+            "test": null,
+            "waiting_list": null
+        },
+        "userCount": 1
+    },
+    "FS15": {
+        "gradesDetail": {
+            "average": 5,
+            "count": 1,
+            "failed": 0,
+            "passed": 1,
+            "semester": "FS15"
+        },
+        "semesterDetail": {
+            "additional_information": null,
+            "assessment": null,
+            "audience": "Studierende der Assessmentstufe und Nebenfachstudierende.",
+            "cancellation_end": null,
+            "cancellation_start": null,
+            "comment": null,
+            "content": null,
+            "credit_hours": null,
+            "credits": "6.00000",
+            "description": "Das Modul besteht aus den Veranstaltungen Rechtstheorie und Recht und Religion.\r\n\r\nZum Inhalt dieser Veranstaltungen geben die jeweiligen Veranstaltungsbeschreibungen Auskunft.",
+            "event_series": [
+                {
+                    "category": "EXAM",
+                    "id": "50711419",
+                    "people": [],
+                    "time_label": "to be announced"
+                },
+                {
+                    "category": "EXAM",
+                    "id": "50711418",
+                    "people": [],
+                    "time_label": "to be announced"
+                }
+            ],
+            "exam_literature": null,
+            "grading": "SWISS_HALF_GRADES",
+            "instructors": [],
+            "lecture_notes": null,
+            "links": null,
+            "materials": "",
+            "newest": null,
+            "objective": "Das Modul vermittelt zum einen die Grundlagen der Rechtstheorie. Es soll gleichzeitig helfen, eine kritische und eigenst\u00e4ndige Auseinandersetzung mit strukturellen und normativen Kernaspekten des Rechts zu gew\u00e4hrleisten. Die Bedeutung theoretischer Fragen f\u00fcr die Rechtspraxis wird deutlich gemacht.",
+            "olat": null,
+            "period": 20151,
+            "period_human": "FS15",
+            "prerecognitions": "",
+            "prerequisites": "",
+            "registration_end": "2015-03-13T22:59:59.000Z",
+            "registration_start": "2015-01-15T09:00:00.000Z",
+            "repeatability": "TWICE",
+            "responsible": [
+                {
+                    "_id": "587f7bfe9926d096747668d0",
+                    "first_name": "Matthias",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Mahlmann",
+                    "name": "Dr. Matthias Mahlmann",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr.",
+                    "uni_identifier": "01048925",
+                    "university": "UZH"
+                },
+                {
+                    "_id": "587f7c529926d09674766a47",
+                    "first_name": "Andreas",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Thier",
+                    "name": "Dr. iur. Andreas Thier",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr. iur.",
+                    "uni_identifier": "01025481",
+                    "university": "UZH"
+                }
+            ],
+            "seats_restriction": null,
+            "structure": null,
+            "test": null,
+            "waiting_list": null
+        },
+        "userCount": 8
+    },
+    "FS16": {
+        "gradesDetail": {
+            "average": 4.88,
+            "count": 4,
+            "failed": 0,
+            "passed": 4,
+            "semester": "FS16"
+        },
+        "semesterDetail": {
+            "additional_information": null,
+            "assessment": null,
+            "audience": "Studierende der Assessmentstufe und Nebenfachstudierende.",
+            "cancellation_end": null,
+            "cancellation_start": null,
+            "comment": null,
+            "content": null,
+            "credit_hours": null,
+            "credits": "6.00000",
+            "description": "Das Modul besteht aus den Veranstaltungen Rechtstheorie und Recht und Religion.\r\n\r\nZum Inhalt dieser Veranstaltungen geben die jeweiligen Veranstaltungsbeschreibungen Auskunft.",
+            "event_series": [
+                {
+                    "category": "EXAM",
+                    "id": "50767289",
+                    "people": [],
+                    "time_label": "to be announced"
+                },
+                {
+                    "category": "EXAM",
+                    "id": "50767285",
+                    "people": [],
+                    "time_label": "to be announced"
+                }
+            ],
+            "exam_literature": null,
+            "grading": "SWISS_HALF_GRADES",
+            "instructors": [],
+            "lecture_notes": null,
+            "links": null,
+            "materials": "",
+            "newest": null,
+            "objective": "Das Modul vermittelt zum einen die Grundlagen der Rechtstheorie. Es soll gleichzeitig helfen, eine kritische und eigenst\u00e4ndige Auseinandersetzung mit strukturellen und normativen Kernaspekten des Rechts zu gew\u00e4hrleisten. Die Bedeutung theoretischer Fragen f\u00fcr die Rechtspraxis wird deutlich gemacht. Zu weiteren Details zu den Lernzielen beachten Sie bitte die jeweiligen Veranstaltungsbeschreibungen",
+            "olat": null,
+            "period": 20161,
+            "period_human": "FS16",
+            "prerecognitions": "",
+            "prerequisites": "",
+            "registration_end": "2016-03-18T22:59:59.000Z",
+            "registration_start": "2016-01-21T09:00:00.000Z",
+            "repeatability": "TWICE",
+            "responsible": [
+                {
+                    "_id": "587f7bfe9926d096747668d0",
+                    "first_name": "Matthias",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Mahlmann",
+                    "name": "Dr. Matthias Mahlmann",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr.",
+                    "uni_identifier": "01048925",
+                    "university": "UZH"
+                },
+                {
+                    "_id": "587f7c529926d09674766a47",
+                    "first_name": "Andreas",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Thier",
+                    "name": "Dr. iur. Andreas Thier",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr. iur.",
+                    "uni_identifier": "01025481",
+                    "university": "UZH"
+                }
+            ],
+            "seats_restriction": null,
+            "structure": null,
+            "test": null,
+            "waiting_list": null
+        },
+        "userCount": 18
+    },
+    "FS17": {
+        "gradesDetail": {
+            "average": 4.63,
+            "count": 4,
+            "failed": 0,
+            "passed": 4,
+            "semester": "FS17"
+        },
+        "semesterDetail": {
+            "additional_information": null,
+            "assessment": null,
+            "audience": "Studierende der Aufbaustufe und Nebenfachstudierende.",
+            "cancellation_end": null,
+            "cancellation_start": null,
+            "comment": null,
+            "content": null,
+            "credit_hours": null,
+            "credits": "6.00000",
+            "description": "Das Modul besteht aus den Veranstaltungen Rechtstheorie und Recht und Religion.\r\n\r\nZum Inhalt dieser Veranstaltungen geben die jeweiligen Veranstaltungsbeschreibungen Auskunft.",
+            "event_series": [
+                {
+                    "category": "EXAM",
+                    "id": "50814196",
+                    "people": [],
+                    "time_label": "to be announced"
+                },
+                {
+                    "category": "EXAM",
+                    "id": "50814193",
+                    "people": [],
+                    "time_label": "to be announced"
+                }
+            ],
+            "exam_literature": null,
+            "grading": "SWISS_HALF_GRADES",
+            "instructors": [],
+            "lecture_notes": null,
+            "links": null,
+            "materials": "",
+            "newest": null,
+            "objective": "Das Modul vermittelt zum einen die Grundlagen der Rechtstheorie. Es soll gleichzeitig helfen, eine kritische und eigenst\u00e4ndige Auseinandersetzung mit strukturellen und normativen Kernaspekten des Rechts zu gew\u00e4hrleisten. Die Bedeutung theoretischer Fragen f\u00fcr die Rechtspraxis wird deutlich gemacht. Zu weiteren Details zu den Lernzielen beachten Sie bitte die jeweiligen Veranstaltungsbeschreibungen.",
+            "olat": null,
+            "period": 20171,
+            "period_human": "FS17",
+            "prerecognitions": "",
+            "prerequisites": "",
+            "registration_end": "2017-03-17T22:59:59.000Z",
+            "registration_start": "2017-01-19T09:00:00.000Z",
+            "repeatability": "TWICE",
+            "responsible": [
+                {
+                    "_id": "587f7bfe9926d096747668d0",
+                    "first_name": "Matthias",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Mahlmann",
+                    "name": "Dr. Matthias Mahlmann",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr.",
+                    "uni_identifier": "01048925",
+                    "university": "UZH"
+                },
+                {
+                    "_id": "587f7c529926d09674766a47",
+                    "first_name": "Andreas",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Thier",
+                    "name": "Dr. iur. Andreas Thier",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr. iur.",
+                    "uni_identifier": "01025481",
+                    "university": "UZH"
+                }
+            ],
+            "seats_restriction": null,
+            "structure": null,
+            "test": null,
+            "waiting_list": null
+        },
+        "userCount": 29
+    },
+    "FS18": {
+        "gradesDetail": {
+            "average": 4.13,
+            "count": 4,
+            "failed": 1,
+            "passed": 3,
+            "semester": "FS18"
+        },
+        "semesterDetail": {
+            "additional_information": null,
+            "assessment": null,
+            "audience": "Studierende der Aufbaustufe und Nebenfachstudierende.",
+            "cancellation_end": "2018-04-14T00:00:00.000Z",
+            "cancellation_start": "2018-01-18T10:00:00.000Z",
+            "comment": null,
+            "content": null,
+            "credit_hours": null,
+            "credits": "6.00000",
+            "description": "Das Modul besteht aus den Veranstaltungen Rechtstheorie und Recht und Religion.\r\n\r\nZum Inhalt dieser Veranstaltungen geben die jeweiligen Veranstaltungsbeschreibungen Auskunft.",
+            "event_series": [
+                {
+                    "category": "EXAM",
+                    "comments": null,
+                    "id": "50868308",
+                    "people": [],
+                    "time_label": "to be announced"
+                },
+                {
+                    "category": "EXAM",
+                    "comments": null,
+                    "id": "50868304",
+                    "people": [],
+                    "time_label": "to be announced"
+                }
+            ],
+            "exam_literature": null,
+            "exam_mode": null,
+            "grading": "SWISS_HALF_GRADES",
+            "instructors": [],
+            "lecture_notes": null,
+            "links": null,
+            "materials": "",
+            "newest": null,
+            "objective": "Das Modul vermittelt zum einen die Grundlagen der Rechtstheorie. Es soll gleichzeitig helfen, eine kritische und eigenst\u00e4ndige Auseinandersetzung mit strukturellen und normativen Kernaspekten des Rechts zu gew\u00e4hrleisten. Die Bedeutung theoretischer Fragen f\u00fcr die Rechtspraxis wird deutlich gemacht. Zu weiteren Details zu den Lernzielen beachten Sie bitte die jeweiligen Veranstaltungsbeschreibungen.",
+            "olat": null,
+            "period": 20181,
+            "period_human": "FS18",
+            "prerecognitions": "",
+            "prerequisites": "",
+            "registration_end": "2018-03-17T00:00:00.000Z",
+            "registration_start": "2018-01-18T10:00:00.000Z",
+            "repeatability": "TWICE",
+            "responsible": [
+                {
+                    "_id": "587f7bfe9926d096747668d0",
+                    "first_name": "Matthias",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Mahlmann",
+                    "name": "Dr. Matthias Mahlmann",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr.",
+                    "uni_identifier": "01048925",
+                    "university": "UZH"
+                },
+                {
+                    "_id": "587f7c529926d09674766a47",
+                    "first_name": "Andreas",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Thier",
+                    "name": "Dr. iur. Andreas Thier",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr. iur.",
+                    "uni_identifier": "01025481",
+                    "university": "UZH"
+                }
+            ],
+            "seats_restriction": null,
+            "structure": null,
+            "test": "Schriftliche Pr\u00fcfung am Ende des Fr\u00fchjahrssemesters. Informationen finden sich auf der Homepage der Verantwortlichen f\u00fcr die Veranstaltung.",
+            "waiting_list": null
+        },
+        "userCount": 30
+    },
+    "FS19": {
+        "gradesDetail": {
+            "average": 4.5,
+            "count": 4,
+            "failed": 1,
+            "passed": 3,
+            "semester": "FS19"
+        },
+        "semesterDetail": {
+            "additional_information": null,
+            "assessment": null,
+            "audience": "Studierende der Aufbaustufe und Nebenfachstudierende.",
+            "cancellation_end": "2019-03-30T00:00:00.000Z",
+            "cancellation_start": "2019-01-17T10:00:00.000Z",
+            "comment": null,
+            "content": null,
+            "credit_hours": null,
+            "credits": "6.00000",
+            "description": "Das Modul besteht aus den Veranstaltungen Rechtstheorie und Recht und Religion.\r\n\r\nZum Inhalt dieser Veranstaltungen geben die jeweiligen Veranstaltungsbeschreibungen Auskunft.",
+            "event_series": [
+                {
+                    "category": "EXAM",
+                    "comments": "Recht und Religion",
+                    "id": "50921351",
+                    "people": [],
+                    "time_label": "to be announced"
+                },
+                {
+                    "category": "EXAM",
+                    "comments": "Rechtstheorie",
+                    "id": "50921348",
+                    "people": [],
+                    "time_label": "to be announced"
+                }
+            ],
+            "exam_literature": null,
+            "exam_mode": null,
+            "grading": "SWISS_HALF_GRADES",
+            "instructors": [],
+            "lecture_notes": null,
+            "links": null,
+            "materials": "",
+            "newest": null,
+            "objective": "",
+            "olat": null,
+            "period": 20191,
+            "period_human": "FS19",
+            "prerecognitions": "",
+            "prerequisites": "",
+            "registration_end": "2019-03-16T00:00:00.000Z",
+            "registration_start": "2019-01-17T10:00:00.000Z",
+            "repeatability": "TWICE",
+            "responsible": [
+                {
+                    "_id": "587f7bfe9926d096747668d0",
+                    "first_name": "Matthias",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Mahlmann",
+                    "name": "Dr. Matthias Mahlmann",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr.",
+                    "uni_identifier": "01048925",
+                    "university": "UZH"
+                },
+                {
+                    "_id": "587f7c529926d09674766a47",
+                    "first_name": "Andreas",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Thier",
+                    "name": "Dr. iur. Andreas Thier",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr. iur.",
+                    "uni_identifier": "01025481",
+                    "university": "UZH"
+                }
+            ],
+            "seats_restriction": null,
+            "structure": null,
+            "test": "Schriftliche Pr\u00fcfung am Ende des Fr\u00fchjahrssemesters. Informationen finden sich auf der Homepage der Verantwortlichen f\u00fcr die Veranstaltung.",
+            "waiting_list": null
+        },
+        "userCount": 24
+    },
+    "FS20": {
+        "semesterDetail": {
+            "additional_information": null,
+            "assessment": null,
+            "audience": "Studierende der Aufbaustufe und Nebenfachstudierende.",
+            "cancellation_end": "2020-03-27T23:00:00.000Z",
+            "cancellation_start": "2020-01-16T09:00:00.000Z",
+            "comment": null,
+            "content": null,
+            "credit_hours": null,
+            "credits": "6.00000",
+            "description": "Das Modul besteht aus den Veranstaltungen Rechtstheorie und Recht und Religion. Zum Inhalt dieser Veranstaltungen geben die jeweiligen Veranstaltungsbeschreibungen Auskunft.",
+            "event_series": [
+                {
+                    "category": "EXAM",
+                    "comments": "Recht und Religion",
+                    "id": "50976126",
+                    "people": [],
+                    "time_label": "to be announced"
+                },
+                {
+                    "category": "EXAM",
+                    "comments": "Rechtstheorie",
+                    "id": "50976161",
+                    "people": [],
+                    "time_label": "to be announced"
+                }
+            ],
+            "exam_literature": null,
+            "grading": "SWISS_HALF_GRADES",
+            "instructors": [],
+            "lecture_notes": null,
+            "links": null,
+            "materials": "",
+            "objective": "",
+            "olat": null,
+            "period": 20201,
+            "period_human": "FS20",
+            "prerecognitions": "",
+            "prerequisites": "",
+            "registration_end": "2020-03-13T23:00:00.000Z",
+            "registration_start": "2020-01-16T09:00:00.000Z",
+            "repeatability": "TWICE",
+            "responsible": [
+                {
+                    "_id": "587f7bfe9926d096747668d0",
+                    "first_name": "Matthias",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Mahlmann",
+                    "name": "Dr. Matthias Mahlmann",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr.",
+                    "uni_identifier": "01048925",
+                    "university": "UZH"
+                },
+                {
+                    "_id": "587f7c529926d09674766a47",
+                    "first_name": "Andreas",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Thier",
+                    "name": "Dr. iur. Andreas Thier",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr. iur.",
+                    "uni_identifier": "01025481",
+                    "university": "UZH"
+                }
+            ],
+            "seats_restriction": null,
+            "structure": null,
+            "test": "Schriftliche Pr\u00fcfung am Ende des Fr\u00fchjahrssemesters.",
+            "waiting_list": null
+        }
+    },
+    "HS14": {
+        "semesterDetail": {
+            "additional_information": null,
+            "assessment": null,
+            "audience": "Studierende der Assessmentstufe und Nebenfachstudierende.",
+            "cancellation_end": null,
+            "cancellation_start": null,
+            "comment": null,
+            "content": null,
+            "credit_hours": null,
+            "credits": "6.00000",
+            "description": "Das Modul besteht aus den Veranstaltungen Rechtstheorie und Recht und Religion.\r\n\r\nZum Inhalt dieser Veranstaltungen geben die jeweiligen Veranstaltungsbeschreibungen Auskunft.",
+            "event_series": [
+                {
+                    "category": "COURSE",
+                    "id": "50686409",
+                    "people": [
+                        "01025481"
+                    ],
+                    "time_label": "irregular"
+                },
+                {
+                    "category": "COURSE",
+                    "id": "50687106",
+                    "people": [
+                        "01048925"
+                    ],
+                    "time_label": "Wed 10:15-12:00, 6.10.: 08:00-09:45"
+                }
+            ],
+            "exam_literature": null,
+            "grading": "SWISS_HALF_GRADES",
+            "instructors": [],
+            "lecture_notes": null,
+            "links": null,
+            "materials": "",
+            "newest": null,
+            "objective": "Das Modul vermittelt zum einen die Grundlagen der Rechtstheorie. Es soll gleichzeitig helfen, eine kritische und eigenst\u00e4ndige Auseinandersetzung mit strukturellen und normativen Kernaspekten des Rechts zu gew\u00e4hrleisten. Die Bedeutung theoretischer Fragen f\u00fcr die Rechtspraxis wird deutlich gemacht.",
+            "olat": null,
+            "period": 20142,
+            "period_human": "HS14",
+            "prerecognitions": "",
+            "prerequisites": "",
+            "registration_end": null,
+            "registration_start": null,
+            "repeatability": "TWICE",
+            "responsible": [
+                {
+                    "_id": "587f7bfe9926d096747668d0",
+                    "first_name": "Matthias",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Mahlmann",
+                    "name": "Dr. Matthias Mahlmann",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr.",
+                    "uni_identifier": "01048925",
+                    "university": "UZH"
+                },
+                {
+                    "_id": "587f7c529926d09674766a47",
+                    "first_name": "Andreas",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Thier",
+                    "name": "Dr. iur. Andreas Thier",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr. iur.",
+                    "uni_identifier": "01025481",
+                    "university": "UZH"
+                }
+            ],
+            "seats_restriction": null,
+            "structure": null,
+            "test": null,
+            "waiting_list": null
+        }
+    },
+    "HS15": {
+        "semesterDetail": {
+            "additional_information": null,
+            "assessment": null,
+            "audience": "Studierende der Assessmentstufe und Nebenfachstudierende.",
+            "cancellation_end": null,
+            "cancellation_start": null,
+            "comment": null,
+            "content": null,
+            "credit_hours": null,
+            "credits": "6.00000",
+            "description": "Das Modul besteht aus den Veranstaltungen Rechtstheorie und Recht und Religion.\r\n\r\nZum Inhalt dieser Veranstaltungen geben die jeweiligen Veranstaltungsbeschreibungen Auskunft.",
+            "event_series": [
+                {
+                    "category": "COURSE",
+                    "id": "50734903",
+                    "people": [
+                        "01025481"
+                    ],
+                    "time_label": "Tue 14:00-15:45"
+                },
+                {
+                    "category": "COURSE",
+                    "id": "50734902",
+                    "people": [
+                        "01048925"
+                    ],
+                    "time_label": "Wed 10:15-12:00, 21.9.: 08:00-09:45"
+                }
+            ],
+            "exam_literature": null,
+            "grading": "SWISS_HALF_GRADES",
+            "instructors": [],
+            "lecture_notes": null,
+            "links": null,
+            "materials": "",
+            "newest": null,
+            "objective": "Das Modul vermittelt zum einen die Grundlagen der Rechtstheorie. Es soll gleichzeitig helfen, eine kritische und eigenst\u00e4ndige Auseinandersetzung mit strukturellen und normativen Kernaspekten des Rechts zu gew\u00e4hrleisten. Die Bedeutung theoretischer Fragen f\u00fcr die Rechtspraxis wird deutlich gemacht. Zu weiteren Details zu den Lernzielen beachten Sie bitte die jeweiligen Veranstaltungsbeschreibungen",
+            "olat": null,
+            "period": 20152,
+            "period_human": "HS15",
+            "prerecognitions": "",
+            "prerequisites": "",
+            "registration_end": null,
+            "registration_start": null,
+            "repeatability": "TWICE",
+            "responsible": [
+                {
+                    "_id": "587f7bfe9926d096747668d0",
+                    "first_name": "Matthias",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Mahlmann",
+                    "name": "Dr. Matthias Mahlmann",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr.",
+                    "uni_identifier": "01048925",
+                    "university": "UZH"
+                },
+                {
+                    "_id": "587f7c529926d09674766a47",
+                    "first_name": "Andreas",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Thier",
+                    "name": "Dr. iur. Andreas Thier",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr. iur.",
+                    "uni_identifier": "01025481",
+                    "university": "UZH"
+                }
+            ],
+            "seats_restriction": null,
+            "structure": null,
+            "test": null,
+            "waiting_list": null
+        }
+    },
+    "HS16": {
+        "semesterDetail": {
+            "additional_information": null,
+            "assessment": null,
+            "audience": "Studierende der Aufbaustufe und Nebenfachstudierende.",
+            "cancellation_end": null,
+            "cancellation_start": null,
+            "comment": null,
+            "content": null,
+            "credit_hours": null,
+            "credits": "6.00000",
+            "description": "Das Modul besteht aus den Veranstaltungen Rechtstheorie und Recht und Religion.\r\n\r\nZum Inhalt dieser Veranstaltungen geben die jeweiligen Veranstaltungsbeschreibungen Auskunft.",
+            "event_series": [
+                {
+                    "category": "COURSE",
+                    "id": "50787430",
+                    "people": [
+                        "01096490"
+                    ],
+                    "time_label": "Tue 14:00-15:45"
+                },
+                {
+                    "category": "COURSE",
+                    "id": "50787431",
+                    "people": [
+                        "01048925"
+                    ],
+                    "time_label": "Wed 10:15-12:00, 14.10.: 10:15-12:00"
+                }
+            ],
+            "exam_literature": null,
+            "grading": "SWISS_HALF_GRADES",
+            "instructors": [],
+            "lecture_notes": null,
+            "links": null,
+            "materials": "",
+            "newest": null,
+            "objective": "Das Modul vermittelt zum einen die Grundlagen der Rechtstheorie. Es soll gleichzeitig helfen, eine kritische und eigenst\u00e4ndige Auseinandersetzung mit strukturellen und normativen Kernaspekten des Rechts zu gew\u00e4hrleisten. Die Bedeutung theoretischer Fragen f\u00fcr die Rechtspraxis wird deutlich gemacht. Zu weiteren Details zu den Lernzielen beachten Sie bitte die jeweiligen Veranstaltungsbeschreibungen.",
+            "olat": null,
+            "period": 20162,
+            "period_human": "HS16",
+            "prerecognitions": "",
+            "prerequisites": "",
+            "registration_end": null,
+            "registration_start": null,
+            "repeatability": "TWICE",
+            "responsible": [
+                {
+                    "_id": "587f7bfe9926d096747668d0",
+                    "first_name": "Matthias",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Mahlmann",
+                    "name": "Dr. Matthias Mahlmann",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr.",
+                    "uni_identifier": "01048925",
+                    "university": "UZH"
+                },
+                {
+                    "_id": "587f7c529926d09674766a47",
+                    "first_name": "Andreas",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Thier",
+                    "name": "Dr. iur. Andreas Thier",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr. iur.",
+                    "uni_identifier": "01025481",
+                    "university": "UZH"
+                }
+            ],
+            "seats_restriction": null,
+            "structure": null,
+            "test": null,
+            "waiting_list": null
+        }
+    },
+    "HS17": {
+        "semesterDetail": {
+            "additional_information": null,
+            "assessment": null,
+            "audience": "Studierende der Aufbaustufe und Nebenfachstudierende.",
+            "cancellation_end": null,
+            "cancellation_start": null,
+            "comment": null,
+            "content": null,
+            "credit_hours": null,
+            "credits": "6.00000",
+            "description": "Das Modul besteht aus den Veranstaltungen Rechtstheorie und Recht und Religion.\r\n\r\nZum Inhalt dieser Veranstaltungen geben die jeweiligen Veranstaltungsbeschreibungen Auskunft.",
+            "event_series": [
+                {
+                    "category": "COURSE",
+                    "id": "50840177",
+                    "people": [
+                        "01025481"
+                    ],
+                    "time_label": "Tue 14:00-15:45"
+                },
+                {
+                    "category": "COURSE",
+                    "id": "50840178",
+                    "people": [
+                        "01048925"
+                    ],
+                    "time_label": "Wed 10:15-12:00"
+                }
+            ],
+            "exam_literature": null,
+            "exam_mode": null,
+            "grading": "SWISS_QUARTER_GRADES",
+            "instructors": [],
+            "lecture_notes": null,
+            "links": null,
+            "materials": "",
+            "newest": null,
+            "objective": "Das Modul vermittelt zum einen die Grundlagen der Rechtstheorie. Es soll gleichzeitig helfen, eine kritische und eigenst\u00e4ndige Auseinandersetzung mit strukturellen und normativen Kernaspekten des Rechts zu gew\u00e4hrleisten. Die Bedeutung theoretischer Fragen f\u00fcr die Rechtspraxis wird deutlich gemacht. Zu weiteren Details zu den Lernzielen beachten Sie bitte die jeweiligen Veranstaltungsbeschreibungen.",
+            "olat": null,
+            "period": 20172,
+            "period_human": "HS17",
+            "prerecognitions": "",
+            "prerequisites": "",
+            "registration_end": null,
+            "registration_start": null,
+            "repeatability": "TWICE",
+            "responsible": [
+                {
+                    "_id": "587f7bfe9926d096747668d0",
+                    "first_name": "Matthias",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Mahlmann",
+                    "name": "Dr. Matthias Mahlmann",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr.",
+                    "uni_identifier": "01048925",
+                    "university": "UZH"
+                },
+                {
+                    "_id": "587f7c529926d09674766a47",
+                    "first_name": "Andreas",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Thier",
+                    "name": "Dr. iur. Andreas Thier",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr. iur.",
+                    "uni_identifier": "01025481",
+                    "university": "UZH"
+                }
+            ],
+            "seats_restriction": null,
+            "structure": null,
+            "test": null,
+            "waiting_list": null
+        }
+    },
+    "HS18": {
+        "semesterDetail": {
+            "additional_information": null,
+            "assessment": null,
+            "audience": "Studierende der Aufbaustufe und Nebenfachstudierende.",
+            "cancellation_end": null,
+            "cancellation_start": null,
+            "comment": null,
+            "content": null,
+            "credit_hours": null,
+            "credits": "6.00000",
+            "description": "Das Modul besteht aus den Veranstaltungen Rechtstheorie und Recht und Religion.\r\n\r\nZum Inhalt dieser Veranstaltungen geben die jeweiligen Veranstaltungsbeschreibungen Auskunft.",
+            "event_series": [
+                {
+                    "category": "COURSE",
+                    "comments": "Rechtstheorie",
+                    "id": "50888966",
+                    "people": [
+                        "01048925"
+                    ],
+                    "time_label": "irregular"
+                },
+                {
+                    "category": "COURSE",
+                    "comments": "Recht und Religion",
+                    "id": "50888967",
+                    "people": [
+                        "01096490"
+                    ],
+                    "time_label": "irregular"
+                }
+            ],
+            "exam_literature": null,
+            "exam_mode": null,
+            "grading": "SWISS_HALF_GRADES",
+            "instructors": [
+                {
+                    "id": "01048925",
+                    "important": true,
+                    "instructor": {
+                        "_id": "587f7bfe9926d096747668d0",
+                        "first_name": "Matthias",
+                        "header_image": null,
+                        "image": null,
+                        "last_name": "Mahlmann",
+                        "name": "Dr. Matthias Mahlmann",
+                        "responsible": [],
+                        "teaching": [],
+                        "title": "Dr.",
+                        "uni_identifier": "01048925",
+                        "university": "UZH"
+                    },
+                    "type": [
+                        "COURSE"
+                    ]
+                },
+                {
+                    "id": "01096490",
+                    "important": true,
+                    "instructor": {
+                        "_id": "587faa3efb791d9d627360cc",
+                        "first_name": "Peter G.",
+                        "header_image": null,
+                        "image": null,
+                        "last_name": "Kirchschl\u00e4ger",
+                        "name": "Prof. Dr. theol. lic. phil. Universit\u00e4t Luzern Peter G. Kirchschl\u00e4ger",
+                        "responsible": [],
+                        "teaching": [],
+                        "title": "Prof. Dr. theol. lic. phil. Universit\u00e4t Luzern",
+                        "uni_identifier": "01096490",
+                        "university": "UZH"
+                    },
+                    "type": [
+                        "COURSE"
+                    ]
+                }
+            ],
+            "lecture_notes": null,
+            "links": null,
+            "materials": "",
+            "newest": null,
+            "objective": "Das Modul vermittelt zum einen die Grundlagen der Rechtstheorie. Es soll gleichzeitig helfen, eine kritische und eigenst\u00e4ndige Auseinandersetzung mit strukturellen und normativen Kernaspekten des Rechts zu gew\u00e4hrleisten. Die Bedeutung theoretischer Fragen f\u00fcr die Rechtspraxis wird deutlich gemacht. Zu weiteren Details zu den Lernzielen beachten Sie bitte die jeweiligen Veranstaltungsbeschreibungen.",
+            "olat": null,
+            "period": 20182,
+            "period_human": "HS18",
+            "prerecognitions": "",
+            "prerequisites": "",
+            "registration_end": null,
+            "registration_start": null,
+            "repeatability": "TWICE",
+            "responsible": [
+                {
+                    "_id": "587f7bfe9926d096747668d0",
+                    "first_name": "Matthias",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Mahlmann",
+                    "name": "Dr. Matthias Mahlmann",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr.",
+                    "uni_identifier": "01048925",
+                    "university": "UZH"
+                },
+                {
+                    "_id": "587f7c529926d09674766a47",
+                    "first_name": "Andreas",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Thier",
+                    "name": "Dr. iur. Andreas Thier",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr. iur.",
+                    "uni_identifier": "01025481",
+                    "university": "UZH"
+                }
+            ],
+            "seats_restriction": null,
+            "structure": null,
+            "test": "Schriftliche Pr\u00fcfung am Ende des Fr\u00fchjahrssemesters. Informationen finden sich auf der Homepage der Verantwortlichen f\u00fcr die Veranstaltung.",
+            "waiting_list": null
+        }
+    },
+    "HS19": {
+        "semesterDetail": {
+            "additional_information": null,
+            "assessment": null,
+            "audience": "Studierende der Aufbaustufe und Nebenfachstudierende.",
+            "cancellation_end": null,
+            "cancellation_start": null,
+            "comment": null,
+            "content": null,
+            "credit_hours": null,
+            "credits": "6.00000",
+            "description": "Das Modul besteht aus den Veranstaltungen Rechtstheorie und Recht und Religion.\r\nZum Inhalt dieser Veranstaltungen geben die jeweiligen Veranstaltungsbeschreibungen Auskunft.",
+            "event_series": [
+                {
+                    "category": "COURSE",
+                    "comments": "Recht und Religion",
+                    "id": "50940822",
+                    "people": [
+                        "01073596"
+                    ],
+                    "time_label": "Tue 14:00-15:45"
+                },
+                {
+                    "category": "COURSE",
+                    "comments": "Rechtstheorie",
+                    "id": "50940821",
+                    "people": [
+                        "01048925"
+                    ],
+                    "time_label": "Wed 10:15-12:00"
+                }
+            ],
+            "exam_literature": null,
+            "grading": "SWISS_HALF_GRADES",
+            "instructors": [
+                {
+                    "id": "01073596",
+                    "important": true,
+                    "instructor": {
+                        "_id": "587f7d589926d09674766f75",
+                        "first_name": "Anne",
+                        "header_image": null,
+                        "image": null,
+                        "last_name": "K\u00fchler",
+                        "name": "Dr. iur. Anne K\u00fchler",
+                        "responsible": [],
+                        "teaching": [],
+                        "title": "Dr. iur.",
+                        "uni_identifier": "01073596",
+                        "university": "UZH"
+                    },
+                    "type": [
+                        "COURSE"
+                    ]
+                },
+                {
+                    "id": "01048925",
+                    "important": true,
+                    "instructor": {
+                        "_id": "587f7bfe9926d096747668d0",
+                        "first_name": "Matthias",
+                        "header_image": null,
+                        "image": null,
+                        "last_name": "Mahlmann",
+                        "name": "Dr. Matthias Mahlmann",
+                        "responsible": [],
+                        "teaching": [],
+                        "title": "Dr.",
+                        "uni_identifier": "01048925",
+                        "university": "UZH"
+                    },
+                    "type": [
+                        "COURSE"
+                    ]
+                }
+            ],
+            "lecture_notes": null,
+            "links": null,
+            "materials": "",
+            "objective": "",
+            "olat": null,
+            "period": 20192,
+            "period_human": "HS19",
+            "prerecognitions": "",
+            "prerequisites": "",
+            "registration_end": null,
+            "registration_start": null,
+            "repeatability": "TWICE",
+            "responsible": [
+                {
+                    "_id": "587f7bfe9926d096747668d0",
+                    "first_name": "Matthias",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Mahlmann",
+                    "name": "Dr. Matthias Mahlmann",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr.",
+                    "uni_identifier": "01048925",
+                    "university": "UZH"
+                },
+                {
+                    "_id": "587f7c529926d09674766a47",
+                    "first_name": "Andreas",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Thier",
+                    "name": "Dr. iur. Andreas Thier",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr. iur.",
+                    "uni_identifier": "01025481",
+                    "university": "UZH"
+                }
+            ],
+            "seats_restriction": null,
+            "structure": null,
+            "test": "Schriftliche Pr\u00fcfung am Ende des Fr\u00fchjahrssemesters. Informationen finden sich auf der Homepage der Verantwortlichen f\u00fcr die Veranstaltung.",
+            "waiting_list": null
+        },
+        "userCount": 7
+    },
+    "faculty": "Recht",
+    "gradeStatistics_average": 4.82,
+    "gradeStatistics_count": 11,
+    "gradeStatistics_failed": 0,
+    "gradeStatistics_passed": 11,
+    "messages": 0,
+    "module_id": "50636110",
+    "name": "Legal Theory & Law and Religion",
+    "ratingSummary_average": 3.625,
+    "ratingSummary_total": 8,
+    "userCount_all": 117
+}

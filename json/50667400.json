@@ -1,0 +1,570 @@
+{
+    "FS14": {
+        "semesterDetail": {
+            "additional_information": null,
+            "assessment": null,
+            "audience": "Studierende der Masterstufe, Mitarbeiter Human Resources",
+            "cancellation_end": null,
+            "cancellation_start": null,
+            "comment": null,
+            "content": null,
+            "credit_hours": null,
+            "credits": "6.00000",
+            "description": "Ein ausf\u00fchrliches Programm findet sich auf der Webseite des Lehrstuhls Portmann. (Siehe Link unter Lehrveranstaltung)",
+            "event_series": [
+                {
+                    "category": "COURSE",
+                    "id": "50667402",
+                    "people": [
+                        "01000769",
+                        "01000248",
+                        "01000467",
+                        "01001186",
+                        "01081227",
+                        "01021247"
+                    ],
+                    "time_label": "Thu 16:15-18:00, until 22.5."
+                }
+            ],
+            "exam_literature": null,
+            "grading": "SWISS_HALF_GRADES",
+            "instructors": [],
+            "lecture_notes": null,
+            "links": null,
+            "materials": "",
+            "newest": null,
+            "objective": "Aneignung vertiefter Kenntnisse im Arbeitsrecht.",
+            "olat": null,
+            "period": 20141,
+            "period_human": "FS14",
+            "prerecognitions": "Allgemeiner Teil des OR; Besuch der Vorlesung Arbeitsrecht I erw\u00fcnscht, aber nicht Voraussetzung.",
+            "prerequisites": "",
+            "registration_end": "2014-03-14T16:00:00.000Z",
+            "registration_start": "2014-01-16T09:00:00.000Z",
+            "repeatability": "ONCE",
+            "responsible": [
+                {
+                    "_id": "587fa65bfb791d9d62735c97",
+                    "first_name": "Wolfgang",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Portmann",
+                    "name": "Dr. iur. Wolfgang Portmann",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr. iur.",
+                    "uni_identifier": "01000769",
+                    "university": "UZH"
+                }
+            ],
+            "seats_restriction": null,
+            "structure": null,
+            "test": null,
+            "waiting_list": null
+        }
+    },
+    "FS15": {
+        "semesterDetail": {
+            "additional_information": null,
+            "assessment": null,
+            "audience": "Studierende der Masterstufe, Mitarbeiter Human Resources",
+            "cancellation_end": null,
+            "cancellation_start": null,
+            "comment": null,
+            "content": null,
+            "credit_hours": null,
+            "credits": "6.00000",
+            "description": "Ein ausf\u00fchrliches Programm findet sich auf der Webseite des Lehrstuhls Portmann. (Siehe Link unter Lehrveranstaltung)",
+            "event_series": [
+                {
+                    "category": "COURSE",
+                    "id": "50712940",
+                    "people": [
+                        "01000769",
+                        "01000248"
+                    ],
+                    "time_label": "Thu 16:15-18:00"
+                }
+            ],
+            "exam_literature": null,
+            "grading": "SWISS_HALF_GRADES",
+            "instructors": [],
+            "lecture_notes": null,
+            "links": null,
+            "materials": "",
+            "newest": null,
+            "objective": "Aneignung vertiefter Kenntnisse im Arbeitsrecht.",
+            "olat": null,
+            "period": 20151,
+            "period_human": "FS15",
+            "prerecognitions": "Allgemeiner Teil des OR; Besuch der Vorlesung Arbeitsrecht I erw\u00fcnscht, aber nicht Voraussetzung.",
+            "prerequisites": "",
+            "registration_end": "2015-03-13T22:59:59.000Z",
+            "registration_start": "2015-01-15T09:00:00.000Z",
+            "repeatability": "ONCE",
+            "responsible": [
+                {
+                    "_id": "587fa65bfb791d9d62735c97",
+                    "first_name": "Wolfgang",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Portmann",
+                    "name": "Dr. iur. Wolfgang Portmann",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr. iur.",
+                    "uni_identifier": "01000769",
+                    "university": "UZH"
+                }
+            ],
+            "seats_restriction": null,
+            "structure": null,
+            "test": null,
+            "waiting_list": null
+        },
+        "userCount": 2
+    },
+    "FS16": {
+        "gradesDetail": {
+            "average": 5.17,
+            "count": 6,
+            "failed": 0,
+            "passed": 6,
+            "semester": "FS16"
+        },
+        "semesterDetail": {
+            "additional_information": null,
+            "assessment": null,
+            "audience": "Studierende der Masterstufe, Mitarbeiter Human Resources",
+            "cancellation_end": null,
+            "cancellation_start": null,
+            "comment": null,
+            "content": null,
+            "credit_hours": null,
+            "credits": "6.00000",
+            "description": "Ein ausf\u00fchrliches Programm findet sich auf der Webseite des Lehrstuhls Portmann. (Siehe Link unter Lehrveranstaltung)",
+            "event_series": [
+                {
+                    "category": "COURSE",
+                    "id": "50795593",
+                    "people": [
+                        "01087696",
+                        "01021247"
+                    ],
+                    "time_label": "Thu 16:15-18:00"
+                }
+            ],
+            "exam_literature": null,
+            "grading": "SWISS_HALF_GRADES",
+            "instructors": [],
+            "lecture_notes": null,
+            "links": null,
+            "materials": "",
+            "newest": null,
+            "objective": "Aneignung vertiefter Kenntnisse im Arbeitsrecht.",
+            "olat": null,
+            "period": 20161,
+            "period_human": "FS16",
+            "prerecognitions": "Allgemeiner Teil des OR; Besuch der Vorlesung Arbeitsrecht I erw\u00fcnscht, aber nicht Voraussetzung.",
+            "prerequisites": "",
+            "registration_end": "2016-03-18T22:59:59.000Z",
+            "registration_start": "2016-01-21T09:00:00.000Z",
+            "repeatability": "ONCE",
+            "responsible": [
+                {
+                    "_id": "587fa65bfb791d9d62735c97",
+                    "first_name": "Wolfgang",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Portmann",
+                    "name": "Dr. iur. Wolfgang Portmann",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr. iur.",
+                    "uni_identifier": "01000769",
+                    "university": "UZH"
+                }
+            ],
+            "seats_restriction": null,
+            "structure": null,
+            "test": null,
+            "waiting_list": null
+        },
+        "userCount": 12
+    },
+    "FS17": {
+        "semesterDetail": {
+            "additional_information": null,
+            "assessment": null,
+            "audience": "Studierende der Masterstufe, Mitarbeiter Human Resources",
+            "cancellation_end": null,
+            "cancellation_start": null,
+            "comment": null,
+            "content": null,
+            "credit_hours": null,
+            "credits": "6.00000",
+            "description": "Ein ausf\u00fchrliches Programm findet sich auf der Webseite des Lehrstuhls Portmann. (Siehe Link unter Lehrveranstaltung)",
+            "event_series": [
+                {
+                    "category": "COURSE",
+                    "id": "50816743",
+                    "people": [
+                        "01087696",
+                        "01021247"
+                    ],
+                    "time_label": "Thu 16:15-18:00"
+                }
+            ],
+            "exam_literature": null,
+            "grading": "SWISS_HALF_GRADES",
+            "instructors": [],
+            "lecture_notes": null,
+            "links": null,
+            "materials": "",
+            "newest": null,
+            "objective": "Aneignung vertiefter Kenntnisse im Arbeitsrecht.",
+            "olat": null,
+            "period": 20171,
+            "period_human": "FS17",
+            "prerecognitions": "Allgemeiner Teil des OR; Besuch der Vorlesung Arbeitsrecht I erw\u00fcnscht, aber nicht Voraussetzung.",
+            "prerequisites": "",
+            "registration_end": "2017-03-17T22:59:59.000Z",
+            "registration_start": "2017-01-19T09:00:00.000Z",
+            "repeatability": "ONCE",
+            "responsible": [
+                {
+                    "_id": "587fa65bfb791d9d62735c97",
+                    "first_name": "Wolfgang",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Portmann",
+                    "name": "Dr. iur. Wolfgang Portmann",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr. iur.",
+                    "uni_identifier": "01000769",
+                    "university": "UZH"
+                }
+            ],
+            "seats_restriction": null,
+            "structure": null,
+            "test": null,
+            "waiting_list": null
+        },
+        "userCount": 35
+    },
+    "FS18": {
+        "gradesDetail": {
+            "average": 5.33,
+            "count": 3,
+            "failed": 0,
+            "passed": 3,
+            "semester": "FS18"
+        },
+        "semesterDetail": {
+            "additional_information": null,
+            "assessment": null,
+            "audience": "Studierende der Masterstufe, Mitarbeiter Human Resources",
+            "cancellation_end": "2018-04-14T00:00:00.000Z",
+            "cancellation_start": "2018-01-18T10:00:00.000Z",
+            "comment": null,
+            "content": null,
+            "credit_hours": null,
+            "credits": "6.00000",
+            "description": "Ein ausf\u00fchrliches Programm findet sich auf der Webseite des Lehrstuhls Portmann. (Siehe Link unter Lehrveranstaltung)",
+            "event_series": [
+                {
+                    "category": "COURSE",
+                    "comments": null,
+                    "id": "50871778",
+                    "people": [
+                        "01001186",
+                        "01087696"
+                    ],
+                    "time_label": "Thu 16:15-18:00"
+                }
+            ],
+            "exam_literature": null,
+            "exam_mode": null,
+            "grading": "SWISS_HALF_GRADES",
+            "instructors": [
+                {
+                    "id": "01001186",
+                    "important": true,
+                    "instructor": {
+                        "_id": "587f86ef41da38994f5012e9",
+                        "first_name": "Roger",
+                        "header_image": null,
+                        "image": null,
+                        "last_name": "Z\u00e4ch",
+                        "name": "Dr. iur. Roger Z\u00e4ch",
+                        "responsible": [],
+                        "teaching": [],
+                        "title": "Dr. iur.",
+                        "uni_identifier": "01001186",
+                        "university": "UZH"
+                    },
+                    "type": [
+                        "COURSE"
+                    ]
+                },
+                {
+                    "id": "01087696",
+                    "important": true,
+                    "instructor": {
+                        "_id": "587f7d4f9926d09674766f46",
+                        "first_name": "Roger",
+                        "header_image": null,
+                        "image": null,
+                        "last_name": "Rudolph",
+                        "name": "Dr. iur. Roger Rudolph",
+                        "responsible": [],
+                        "teaching": [],
+                        "title": "Dr. iur.",
+                        "uni_identifier": "01087696",
+                        "university": "UZH"
+                    },
+                    "type": [
+                        "COURSE"
+                    ]
+                }
+            ],
+            "lecture_notes": null,
+            "links": null,
+            "materials": "",
+            "newest": null,
+            "objective": "Aneignung vertiefter Kenntnisse im Arbeitsrecht.",
+            "olat": null,
+            "period": 20181,
+            "period_human": "FS18",
+            "prerecognitions": "Allgemeiner Teil des OR; Besuch der Vorlesung Arbeitsrecht I erw\u00fcnscht, aber nicht Voraussetzung.",
+            "prerequisites": "",
+            "registration_end": "2018-03-17T00:00:00.000Z",
+            "registration_start": "2018-01-18T10:00:00.000Z",
+            "repeatability": "ONCE",
+            "responsible": [
+                {
+                    "_id": "587fa65bfb791d9d62735c97",
+                    "first_name": "Wolfgang",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Portmann",
+                    "name": "Dr. iur. Wolfgang Portmann",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr. iur.",
+                    "uni_identifier": "01000769",
+                    "university": "UZH"
+                }
+            ],
+            "seats_restriction": null,
+            "structure": null,
+            "test": "Es findet eine Pr\u00fcfung statt. Die Pr\u00fcfungsart wird nach Ablauf der Stornierungsfrist festgelegt. Sie besteht entweder in einer m\u00fcndlichen oder schriftlichen Pr\u00fcfung. Die definitive Pr\u00fcfungsart wird innert einer Woche nach Ablauf der Stornierungsfrist im WebVVZ publiziert.",
+            "waiting_list": null
+        },
+        "userCount": 50
+    },
+    "FS19": {
+        "gradesDetail": {
+            "average": 5.18,
+            "count": 20,
+            "failed": 1,
+            "passed": 19,
+            "semester": "FS19"
+        },
+        "semesterDetail": {
+            "additional_information": null,
+            "assessment": null,
+            "audience": "Studierende der Masterstufe, Mitarbeiter Human Resources",
+            "cancellation_end": "2019-03-30T00:00:00.000Z",
+            "cancellation_start": "2019-01-17T10:00:00.000Z",
+            "comment": null,
+            "content": null,
+            "credit_hours": null,
+            "credits": "6.00000",
+            "description": "Ein ausf\u00fchrliches Programm findet sich auf der Webseite des Lehrstuhls Rudolph. (Siehe Link unter Lehrveranstaltung)",
+            "event_series": [
+                {
+                    "category": "COURSE",
+                    "comments": "Arbeitsrecht",
+                    "id": "50922269",
+                    "people": [
+                        "01087696"
+                    ],
+                    "time_label": "Thu 16:15-18:00, until 23.5."
+                }
+            ],
+            "exam_literature": null,
+            "exam_mode": null,
+            "grading": "SWISS_HALF_GRADES",
+            "instructors": [
+                {
+                    "id": "01087696",
+                    "important": true,
+                    "instructor": {
+                        "_id": "587f7d4f9926d09674766f46",
+                        "first_name": "Roger",
+                        "header_image": null,
+                        "image": null,
+                        "last_name": "Rudolph",
+                        "name": "Dr. iur. Roger Rudolph",
+                        "responsible": [],
+                        "teaching": [],
+                        "title": "Dr. iur.",
+                        "uni_identifier": "01087696",
+                        "university": "UZH"
+                    },
+                    "type": [
+                        "COURSE"
+                    ]
+                }
+            ],
+            "lecture_notes": null,
+            "links": null,
+            "materials": "",
+            "newest": null,
+            "objective": "Aneignung vertiefter Kenntnisse im Arbeitsrecht.",
+            "olat": null,
+            "period": 20191,
+            "period_human": "FS19",
+            "prerecognitions": "Allgemeiner Teil des OR; Besuch der Vorlesung Arbeitsrecht I erw\u00fcnscht, aber nicht Voraussetzung.",
+            "prerequisites": "",
+            "registration_end": "2019-03-16T00:00:00.000Z",
+            "registration_start": "2019-01-17T10:00:00.000Z",
+            "repeatability": "ONCE",
+            "responsible": [
+                {
+                    "_id": "587f7d4f9926d09674766f46",
+                    "first_name": "Roger",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Rudolph",
+                    "name": "Dr. iur. Roger Rudolph",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr. iur.",
+                    "uni_identifier": "01087696",
+                    "university": "UZH"
+                }
+            ],
+            "seats_restriction": null,
+            "structure": null,
+            "test": "Es findet eine Pr\u00fcfung statt. Die Pr\u00fcfungsart wird nach Ablauf der Stornierungsfrist festgelegt. Sie besteht entweder in einer m\u00fcndlichen oder schriftlichen Pr\u00fcfung. Die definitive Pr\u00fcfungsart wird innert einer Woche nach Ablauf der Stornierungsfrist im WebVVZ publiziert.",
+            "waiting_list": null
+        },
+        "userCount": 79
+    },
+    "FS20": {
+        "semesterDetail": {
+            "additional_information": null,
+            "assessment": null,
+            "audience": "Studierende der Masterstufe, Mitarbeiter Human Resources",
+            "cancellation_end": "2020-03-27T23:00:00.000Z",
+            "cancellation_start": "2020-01-16T09:00:00.000Z",
+            "comment": null,
+            "content": null,
+            "credit_hours": null,
+            "credits": "6.00000",
+            "description": "Ein ausf\u00fchrliches Programm findet sich auf der Webseite des Lehrstuhls Rudolph. (Siehe Link unter Lehrveranstaltung)",
+            "event_series": [
+                {
+                    "category": "COURSE",
+                    "comments": "Arbeitsrecht",
+                    "id": "50980274",
+                    "people": [
+                        "01001186",
+                        "01087696"
+                    ],
+                    "time_label": "Thu 16:15-18:00"
+                }
+            ],
+            "exam_literature": null,
+            "grading": "SWISS_HALF_GRADES",
+            "instructors": [
+                {
+                    "id": "01001186",
+                    "important": true,
+                    "instructor": {
+                        "_id": "587f86ef41da38994f5012e9",
+                        "first_name": "Roger",
+                        "header_image": null,
+                        "image": null,
+                        "last_name": "Z\u00e4ch",
+                        "name": "Dr. iur. Roger Z\u00e4ch",
+                        "responsible": [],
+                        "teaching": [],
+                        "title": "Dr. iur.",
+                        "uni_identifier": "01001186",
+                        "university": "UZH"
+                    },
+                    "type": [
+                        "COURSE"
+                    ]
+                },
+                {
+                    "id": "01087696",
+                    "important": true,
+                    "instructor": {
+                        "_id": "587f7d4f9926d09674766f46",
+                        "first_name": "Roger",
+                        "header_image": null,
+                        "image": null,
+                        "last_name": "Rudolph",
+                        "name": "Dr. iur. Roger Rudolph",
+                        "responsible": [],
+                        "teaching": [],
+                        "title": "Dr. iur.",
+                        "uni_identifier": "01087696",
+                        "university": "UZH"
+                    },
+                    "type": [
+                        "COURSE"
+                    ]
+                }
+            ],
+            "lecture_notes": null,
+            "links": null,
+            "materials": "",
+            "objective": "Aneignung vertiefter Kenntnisse im Arbeitsrecht.",
+            "olat": null,
+            "period": 20201,
+            "period_human": "FS20",
+            "prerecognitions": "Allgemeiner Teil des OR; Besuch der Vorlesung Arbeitsrecht I erw\u00fcnscht, aber nicht Voraussetzung.",
+            "prerequisites": "",
+            "registration_end": "2020-03-13T23:00:00.000Z",
+            "registration_start": "2020-01-16T09:00:00.000Z",
+            "repeatability": "ONCE",
+            "responsible": [
+                {
+                    "_id": "587f7d4f9926d09674766f46",
+                    "first_name": "Roger",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Rudolph",
+                    "name": "Dr. iur. Roger Rudolph",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr. iur.",
+                    "uni_identifier": "01087696",
+                    "university": "UZH"
+                }
+            ],
+            "seats_restriction": null,
+            "structure": null,
+            "test": "Es findet eine Pr\u00fcfung statt. Die Pr\u00fcfungsart wird nach Ablauf der Stornierungsfrist festgelegt. Sie besteht entweder in einer m\u00fcndlichen oder schriftlichen Pr\u00fcfung. Die definitive Pr\u00fcfungsart wird innert einer Woche nach Ablauf der Stornierungsfrist im WebVVZ publiziert.",
+            "waiting_list": null
+        },
+        "userCount": 5
+    },
+    "faculty": "Recht",
+    "gradeStatistics_average": 5.25,
+    "gradeStatistics_count": 8,
+    "gradeStatistics_failed": 0,
+    "gradeStatistics_passed": 8,
+    "messages": 0,
+    "module_id": "50667400",
+    "name": "Labor and Employment Law",
+    "ratingSummary_average": 4.454545454545454,
+    "ratingSummary_total": 11,
+    "userCount_all": 183
+}

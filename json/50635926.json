@@ -1,0 +1,1805 @@
+{
+    "FS13": {
+        "gradesDetail": {
+            "average": 4,
+            "count": 1,
+            "failed": 0,
+            "passed": 1,
+            "semester": "FS13"
+        }
+    },
+    "FS14": {
+        "gradesDetail": {
+            "average": 3.5,
+            "count": 2,
+            "failed": 1,
+            "passed": 1,
+            "semester": "FS14"
+        },
+        "semesterDetail": {
+            "additional_information": null,
+            "assessment": null,
+            "audience": "Arbeitsrecht: Studierende der Aufbaustufe, Studierende der Philosophischen Fakult\u00e4t, Mitarbeiter Human Resources Medizinrecht: Studierende der Rechtswissenschaft im 6. Semester",
+            "cancellation_end": null,
+            "cancellation_start": null,
+            "comment": null,
+            "content": null,
+            "credit_hours": null,
+            "credits": "9.00000",
+            "description": "Arbeitsrecht: Behandlung des Individualarbeitsrechts, des kollektiven Arbeitsrechts sowie der Grundz\u00fcge des \u00f6ffentlichen Arbeitsrechts. Das Modul umfasst die Veranstaltung Arbeitsrecht I und die Fallbesprechungen im Arbeitsrecht.\r\n\r\nMedizinrecht: Die Vorlesung befasst sich mit den Grundlagen der Querschnittsmaterie \"Medizinrecht\", widmet sich der rechtlichen Qualifikation von K\u00f6rper und K\u00f6rpersubstanzen, den Konzepten von Geburt und Tod, dem Behandlungsvertrag, der Einwilligung, den Patientenrechten, der besonderen Situation von minderj\u00e4hrigen und / oder urteilsunf\u00e4higen Patienten und Patientinnen, den Patientenverf\u00fcgungen und Vorsorgevollmachten, der Artzhaftung und den Spezialgebieten der Genetik, der Reproduktionsmedizin, der Transplantation und der medizinischen Forschung. Der Fokus liegt auf den privatrechtlichen Fragestellungen.",
+            "event_series": [
+                {
+                    "category": "EXERCISES",
+                    "id": "50667237",
+                    "people": [
+                        "01039932"
+                    ],
+                    "time_label": "Mon 12:15-13:45, until 31.3."
+                },
+                {
+                    "category": "EXERCISES",
+                    "id": "50667236",
+                    "people": [
+                        "01028823"
+                    ],
+                    "time_label": "Mon 12:15-13:45, until 31.3."
+                },
+                {
+                    "category": "EXERCISES",
+                    "id": "50667235",
+                    "people": [
+                        "01017047"
+                    ],
+                    "time_label": "Mon 12:15-13:45, until 31.3."
+                },
+                {
+                    "category": "EXERCISES",
+                    "id": "50667210",
+                    "people": [
+                        "01068983"
+                    ],
+                    "time_label": "irregular"
+                },
+                {
+                    "category": "EXERCISES",
+                    "id": "50667209",
+                    "people": [
+                        "01021247"
+                    ],
+                    "time_label": "irregular"
+                },
+                {
+                    "category": "EXERCISES",
+                    "id": "50667158",
+                    "people": [
+                        "01007382"
+                    ],
+                    "time_label": "irregular"
+                }
+            ],
+            "exam_literature": null,
+            "grading": "SWISS_HALF_GRADES",
+            "instructors": [],
+            "lecture_notes": null,
+            "links": null,
+            "materials": "Arbeitsrecht: Wolfgang Portmann/Jean-Fritz St\u00f6ckli, Schweizerisches Arbeitsrecht, Z\u00fcrich/St. Gallen (3. Auflage).\r\nMedizinrecht: werden im Unterricht bekannt gegeben",
+            "newest": null,
+            "objective": "Arbeitsrecht: Aneignung gr\u00fcndlicher Kenntnisse im Individualarbeitsrecht sowie im kollektiven und \u00f6ffentlichen Arbeitsrecht.\r\nMediznrecht: \u00dcberblick \u00fcber das Rechtsgebiet des Medizinrechts aus privatrechtlicher Sicht, Umgang mit medizinrechtlichen Fragestellungen",
+            "olat": null,
+            "period": 20141,
+            "period_human": "FS14",
+            "prerecognitions": "Arbeitsrecht: Allgemeiner Teil des Obligationenrechts Medizinrecht: Personenrecht, Familienrecht, Haftpflichtrecht, Obligationenrecht AT",
+            "prerequisites": "Arbeitsrecht: keine\r\nMedizinrecht: Assessment, Besuch der Vorlesung Obligationenrecht AT",
+            "registration_end": "2014-03-14T16:00:00.000Z",
+            "registration_start": "2014-01-16T09:00:00.000Z",
+            "repeatability": "TWICE",
+            "responsible": [
+                {
+                    "_id": "587f7be29926d09674766827",
+                    "first_name": "Andrea",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "B\u00fcchler",
+                    "name": "Dr. Andrea B\u00fcchler",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr.",
+                    "uni_identifier": "01017047",
+                    "university": "UZH"
+                },
+                {
+                    "_id": "587fa65bfb791d9d62735c97",
+                    "first_name": "Wolfgang",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Portmann",
+                    "name": "Dr. iur. Wolfgang Portmann",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr. iur.",
+                    "uni_identifier": "01000769",
+                    "university": "UZH"
+                }
+            ],
+            "seats_restriction": null,
+            "structure": null,
+            "test": null,
+            "waiting_list": null
+        },
+        "userCount": 3
+    },
+    "FS15": {
+        "gradesDetail": {
+            "average": 4.5,
+            "count": 2,
+            "failed": 0,
+            "passed": 2,
+            "semester": "FS15"
+        },
+        "semesterDetail": {
+            "additional_information": null,
+            "assessment": null,
+            "audience": "Arbeitsrecht: Studierende der Aufbaustufe, Studierende der Philosophischen Fakult\u00e4t, Mitarbeiter Human Resources\r\n\r\nMedizinrecht: Studierende der Rechtswissenschaft im 6. Semester",
+            "cancellation_end": null,
+            "cancellation_start": null,
+            "comment": null,
+            "content": null,
+            "credit_hours": null,
+            "credits": "9.00000",
+            "description": "Arbeitsrecht: Behandlung des Individualarbeitsrechts, des kollektiven Arbeitsrechts sowie der Grundz\u00fcge des \u00f6ffentlichen Arbeitsrechts. Das Modul umfasst die Veranstaltung Arbeitsrecht I und die Fallbesprechungen im Arbeitsrecht.\r\n\r\nMedizinrecht: Die Vorlesung befasst sich mit den Grundlagen der Querschnittsmaterie \"Medizinrecht\", widmet sich der rechtlichen Qualifikation von K\u00f6rper und K\u00f6rpersubstanzen, den Konzepten von Geburt und Tod, dem Behandlungsvertrag, der Einwilligung, den Patientenrechten, der besonderen Situation von minderj\u00e4hrigen und / oder urteilsunf\u00e4higen Patienten und Patientinnen, den Patientenverf\u00fcgungen und Vorsorgevollmachten, der Artzhaftung und den Spezialgebieten der Genetik, der Reproduktionsmedizin, der Transplantation und der medizinischen Forschung. Der Fokus liegt auf den privatrechtlichen Fragestellungen.",
+            "event_series": [
+                {
+                    "category": "EXERCISES",
+                    "id": "50713159",
+                    "people": [
+                        "01039932"
+                    ],
+                    "time_label": "Mon 12:15-13:45, until 23.3."
+                },
+                {
+                    "category": "EXERCISES",
+                    "id": "50713058",
+                    "people": [
+                        "01028823"
+                    ],
+                    "time_label": "Mon 12:15-13:45, until 23.3."
+                },
+                {
+                    "category": "EXERCISES",
+                    "id": "50713057",
+                    "people": [
+                        "01059636"
+                    ],
+                    "time_label": "Mon 12:15-13:45, until 23.3."
+                },
+                {
+                    "category": "EXERCISES",
+                    "id": "50713053",
+                    "people": [
+                        "01068983"
+                    ],
+                    "time_label": "Fri 12:15-13:45, until 27.3."
+                },
+                {
+                    "category": "EXERCISES",
+                    "id": "50713052",
+                    "people": [
+                        "01021247"
+                    ],
+                    "time_label": "Fri 12:15-13:45, until 27.3."
+                },
+                {
+                    "category": "EXERCISES",
+                    "id": "50713051",
+                    "people": [
+                        "01007382"
+                    ],
+                    "time_label": "Fri 12:15-13:45, until 27.3."
+                }
+            ],
+            "exam_literature": null,
+            "grading": "SWISS_HALF_GRADES",
+            "instructors": [],
+            "lecture_notes": null,
+            "links": null,
+            "materials": "Arbeitsrecht: Wolfgang Portmann/Jean-Fritz St\u00f6ckli, Schweizerisches Arbeitsrecht, Z\u00fcrich/St. Gallen (3. Auflage).\r\n\r\nMedizinrecht: werden im Unterricht bekannt gegeben",
+            "newest": null,
+            "objective": "Arbeitsrecht: Aneignung gr\u00fcndlicher Kenntnisse im Individualarbeitsrecht sowie im kollektiven und \u00f6ffentlichen Arbeitsrecht.\r\n\r\nMediznrecht: \u00dcberblick \u00fcber das Rechtsgebiet des Medizinrechts aus privatrechtlicher Sicht, Umgang mit medizinrechtlichen Fragestellungen",
+            "olat": null,
+            "period": 20151,
+            "period_human": "FS15",
+            "prerecognitions": "Arbeitsrecht: Allgemeiner Teil des Obligationenrechts\r\n\r\nMedizinrecht: Personenrecht, Familienrecht, Haftpflichtrecht, Obligationenrecht AT",
+            "prerequisites": "Arbeitsrecht: keine\r\n\r\nMedizinrecht: Assessment, Besuch der Vorlesung Obligationenrecht AT",
+            "registration_end": "2015-03-13T22:59:59.000Z",
+            "registration_start": "2015-01-15T09:00:00.000Z",
+            "repeatability": "TWICE",
+            "responsible": [
+                {
+                    "_id": "587f7be29926d09674766827",
+                    "first_name": "Andrea",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "B\u00fcchler",
+                    "name": "Dr. Andrea B\u00fcchler",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr.",
+                    "uni_identifier": "01017047",
+                    "university": "UZH"
+                },
+                {
+                    "_id": "587fa65bfb791d9d62735c97",
+                    "first_name": "Wolfgang",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Portmann",
+                    "name": "Dr. iur. Wolfgang Portmann",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr. iur.",
+                    "uni_identifier": "01000769",
+                    "university": "UZH"
+                }
+            ],
+            "seats_restriction": null,
+            "structure": null,
+            "test": null,
+            "waiting_list": null
+        },
+        "userCount": 9
+    },
+    "FS16": {
+        "gradesDetail": {
+            "average": 4.7,
+            "count": 5,
+            "failed": 0,
+            "passed": 5,
+            "semester": "FS16"
+        },
+        "semesterDetail": {
+            "additional_information": null,
+            "assessment": null,
+            "audience": "Arbeitsrecht: Studierende der Aufbaustufe, Studierende der Philosophischen Fakult\u00e4t, Mitarbeiter Human Resources\r\n\r\nMedizinrecht: Studierende der Rechtswissenschaft im 6. Semester",
+            "cancellation_end": null,
+            "cancellation_start": null,
+            "comment": null,
+            "content": null,
+            "credit_hours": null,
+            "credits": "9.00000",
+            "description": "Arbeitsrecht: Behandlung des Individualarbeitsrechts, des kollektiven Arbeitsrechts sowie der Grundz\u00fcge des \u00f6ffentlichen Arbeitsrechts. Das Modul umfasst die Veranstaltung Arbeitsrecht I und die Fallbesprechungen im Arbeitsrecht.\r\n\r\nMedizinrecht: Die Vorlesung befasst sich mit den Grundlagen der Querschnittsmaterie \"Medizinrecht\", widmet sich der rechtlichen Qualifikation von K\u00f6rper und K\u00f6rpersubstanzen, den Konzepten von Geburt und Tod, dem Behandlungsvertrag, der Einwilligung, den Patientenrechten, der besonderen Situation von minderj\u00e4hrigen und / oder urteilsunf\u00e4higen Patienten und Patientinnen, den Patientenverf\u00fcgungen und Vorsorgevollmachten, der Artzhaftung und den Spezialgebieten der Genetik, der Reproduktionsmedizin, der Transplantation und der medizinischen Forschung. Der Fokus liegt auf den privatrechtlichen Fragestellungen.",
+            "event_series": [
+                {
+                    "category": "EXERCISES",
+                    "id": "50767627",
+                    "people": [
+                        "01039932"
+                    ],
+                    "time_label": "Mon 12:15-13:45, until 4.4."
+                },
+                {
+                    "category": "EXERCISES",
+                    "id": "50767626",
+                    "people": [
+                        "01059636"
+                    ],
+                    "time_label": "Mon 12:15-13:45, until 4.4."
+                },
+                {
+                    "category": "EXERCISES",
+                    "id": "50767625",
+                    "people": [
+                        "01017047"
+                    ],
+                    "time_label": "Mon 12:15-13:45, until 4.4."
+                },
+                {
+                    "category": "EXERCISES",
+                    "id": "50767617",
+                    "people": [
+                        "01068983"
+                    ],
+                    "time_label": "Fri 12:15-13:45, until 22.4."
+                },
+                {
+                    "category": "EXERCISES",
+                    "id": "50767616",
+                    "people": [
+                        "01021247"
+                    ],
+                    "time_label": "Fri 12:15-13:45, until 22.4."
+                },
+                {
+                    "category": "EXERCISES",
+                    "id": "50767614",
+                    "people": [
+                        "01007382"
+                    ],
+                    "time_label": "Fri 12:15-13:45, until 22.4."
+                }
+            ],
+            "exam_literature": null,
+            "grading": "SWISS_HALF_GRADES",
+            "instructors": [],
+            "lecture_notes": null,
+            "links": null,
+            "materials": "Arbeitsrecht: Wolfgang Portmann/Jean-Fritz St\u00f6ckli, Schweizerisches Arbeitsrecht, Z\u00fcrich/St. Gallen (3. Auflage).\r\n\r\nMedizinrecht: werden im Unterricht bekannt gegeben",
+            "newest": null,
+            "objective": "Arbeitsrecht: Aneignung gr\u00fcndlicher Kenntnisse im Individualarbeitsrecht sowie im kollektiven und \u00f6ffentlichen Arbeitsrecht.\r\n\r\nMediznrecht: \u00dcberblick \u00fcber das Rechtsgebiet des Medizinrechts aus privatrechtlicher Sicht, Umgang mit medizinrechtlichen Fragestellungen",
+            "olat": null,
+            "period": 20161,
+            "period_human": "FS16",
+            "prerecognitions": "Arbeitsrecht: Allgemeiner Teil des Obligationenrechts\r\n\r\nMedizinrecht: Personenrecht, Familienrecht, Haftpflichtrecht, Obligationenrecht AT",
+            "prerequisites": "Arbeitsrecht: keine\r\n\r\nMedizinrecht: Assessment, Besuch der Vorlesung Obligationenrecht AT",
+            "registration_end": "2016-03-18T22:59:59.000Z",
+            "registration_start": "2016-01-21T09:00:00.000Z",
+            "repeatability": "TWICE",
+            "responsible": [
+                {
+                    "_id": "587f7be29926d09674766827",
+                    "first_name": "Andrea",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "B\u00fcchler",
+                    "name": "Dr. Andrea B\u00fcchler",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr.",
+                    "uni_identifier": "01017047",
+                    "university": "UZH"
+                },
+                {
+                    "_id": "587fa65bfb791d9d62735c97",
+                    "first_name": "Wolfgang",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Portmann",
+                    "name": "Dr. iur. Wolfgang Portmann",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr. iur.",
+                    "uni_identifier": "01000769",
+                    "university": "UZH"
+                }
+            ],
+            "seats_restriction": null,
+            "structure": null,
+            "test": null,
+            "waiting_list": null
+        },
+        "userCount": 31
+    },
+    "FS17": {
+        "gradesDetail": {
+            "average": 4.28,
+            "count": 9,
+            "failed": 0,
+            "passed": 9,
+            "semester": "FS17"
+        },
+        "semesterDetail": {
+            "additional_information": null,
+            "assessment": null,
+            "audience": "Arbeitsrecht: Studierende der Aufbaustufe, Studierende der Philosophischen Fakult\u00e4t, Mitarbeiter Human Resources\r\n\r\nMedizinrecht: Studierende der Rechtswissenschaft im 6. Semester",
+            "cancellation_end": null,
+            "cancellation_start": null,
+            "comment": null,
+            "content": null,
+            "credit_hours": null,
+            "credits": "9.00000",
+            "description": "Arbeitsrecht: Behandlung des Individualarbeitsrechts, des kollektiven Arbeitsrechts sowie der Grundz\u00fcge des \u00f6ffentlichen Arbeitsrechts. Das Modul umfasst die Veranstaltung Arbeitsrecht I und die Fallbesprechungen im Arbeitsrecht.\r\n\r\nMedizinrecht: Die Vorlesung befasst sich mit den Grundlagen der Querschnittsmaterie \"Medizinrecht\", widmet sich der rechtlichen Qualifikation von K\u00f6rper und K\u00f6rpersubstanzen, den Konzepten von Geburt und Tod, dem Behandlungsvertrag, der Einwilligung, den Patientenrechten, der besonderen Situation von minderj\u00e4hrigen und / oder urteilsunf\u00e4higen Patienten und Patientinnen, den Patientenverf\u00fcgungen und Vorsorgevollmachten, der Artzhaftung und den Spezialgebieten der Genetik, der Reproduktionsmedizin, der Transplantation und der medizinischen Forschung. Der Fokus liegt auf den privatrechtlichen Fragestellungen.",
+            "event_series": [
+                {
+                    "category": "EXERCISES",
+                    "id": "50816043",
+                    "people": [
+                        "01068983"
+                    ],
+                    "time_label": "Fri 12:15-13:45, until 7.4."
+                },
+                {
+                    "category": "EXERCISES",
+                    "id": "50816042",
+                    "people": [
+                        "01021247"
+                    ],
+                    "time_label": "Fri 12:15-13:45, until 7.4."
+                },
+                {
+                    "category": "EXERCISES",
+                    "id": "50816041",
+                    "people": [
+                        "01007382"
+                    ],
+                    "time_label": "Fri 12:15-13:45, until 7.4."
+                },
+                {
+                    "category": "EXERCISES",
+                    "id": "50816054",
+                    "people": [
+                        "01039932"
+                    ],
+                    "time_label": "Mon 12:15-13:45, 27.2. until 3.4."
+                },
+                {
+                    "category": "EXERCISES",
+                    "id": "50816053",
+                    "people": [
+                        "01059636"
+                    ],
+                    "time_label": "Mon 12:15-13:45, 27.2. until 3.4."
+                },
+                {
+                    "category": "EXERCISES",
+                    "id": "50816052",
+                    "people": [
+                        "01017047"
+                    ],
+                    "time_label": "Mon 12:15-13:45, 27.2. until 3.4."
+                }
+            ],
+            "exam_literature": null,
+            "grading": "SWISS_HALF_GRADES",
+            "instructors": [],
+            "lecture_notes": null,
+            "links": null,
+            "materials": "Arbeitsrecht: Wolfgang Portmann/Jean-Fritz St\u00f6ckli, Schweizerisches Arbeitsrecht, Z\u00fcrich/St. Gallen (3. Auflage).\r\n\r\nMedizinrecht: werden im Unterricht bekannt gegeben",
+            "newest": null,
+            "objective": "Arbeitsrecht: Aneignung gr\u00fcndlicher Kenntnisse im Individualarbeitsrecht sowie im kollektiven und \u00f6ffentlichen Arbeitsrecht.\r\n\r\nMediznrecht: \u00dcberblick \u00fcber das Rechtsgebiet des Medizinrechts aus privatrechtlicher Sicht, Umgang mit medizinrechtlichen Fragestellungen",
+            "olat": null,
+            "period": 20171,
+            "period_human": "FS17",
+            "prerecognitions": "Arbeitsrecht: Allgemeiner Teil des Obligationenrechts\r\n\r\nMedizinrecht: Personenrecht, Familienrecht, Haftpflichtrecht, Obligationenrecht AT",
+            "prerequisites": "Arbeitsrecht: keine\r\n\r\nMedizinrecht: Assessment, Besuch der Vorlesung Obligationenrecht AT",
+            "registration_end": "2017-03-17T22:59:59.000Z",
+            "registration_start": "2017-01-19T09:00:00.000Z",
+            "repeatability": "TWICE",
+            "responsible": [
+                {
+                    "_id": "587f7be29926d09674766827",
+                    "first_name": "Andrea",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "B\u00fcchler",
+                    "name": "Dr. Andrea B\u00fcchler",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr.",
+                    "uni_identifier": "01017047",
+                    "university": "UZH"
+                },
+                {
+                    "_id": "587fa65bfb791d9d62735c97",
+                    "first_name": "Wolfgang",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Portmann",
+                    "name": "Dr. iur. Wolfgang Portmann",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr. iur.",
+                    "uni_identifier": "01000769",
+                    "university": "UZH"
+                }
+            ],
+            "seats_restriction": null,
+            "structure": null,
+            "test": null,
+            "waiting_list": null
+        },
+        "userCount": 44
+    },
+    "FS18": {
+        "gradesDetail": {
+            "average": 4.86,
+            "count": 14,
+            "failed": 1,
+            "passed": 13,
+            "semester": "FS18"
+        },
+        "semesterDetail": {
+            "additional_information": null,
+            "assessment": null,
+            "audience": "Arbeitsrecht: Studierende der Aufbaustufe, Studierende der Philosophischen Fakult\u00e4t, Mitarbeiter Human Resources\r\n\r\nMedizinrecht: Studierende der Rechtswissenschaft im 6. Semester",
+            "cancellation_end": "2018-04-14T00:00:00.000Z",
+            "cancellation_start": "2018-01-18T10:00:00.000Z",
+            "comment": null,
+            "content": null,
+            "credit_hours": null,
+            "credits": "9.00000",
+            "description": "Arbeitsrecht: Behandlung des Individualarbeitsrechts, des kollektiven Arbeitsrechts sowie der Grundz\u00fcge des \u00f6ffentlichen Arbeitsrechts. Das Modul umfasst die Veranstaltung Arbeitsrecht I und die Fallbesprechungen im Arbeitsrecht.\r\n\r\nMedizinrecht: Die Vorlesung befasst sich mit den Grundlagen der Querschnittsmaterie \"Medizinrecht\", widmet sich der rechtlichen Qualifikation von K\u00f6rper und K\u00f6rpersubstanzen, den Konzepten von Geburt und Tod, dem Behandlungsvertrag, der Einwilligung, den Patientenrechten, der besonderen Situation von minderj\u00e4hrigen und / oder urteilsunf\u00e4higen Patienten und Patientinnen, den Patientenverf\u00fcgungen und Vorsorgevollmachten, der Artzhaftung und den Spezialgebieten der Genetik, der Reproduktionsmedizin, der Transplantation und der medizinischen Forschung. Der Fokus liegt auf den privatrechtlichen Fragestellungen.",
+            "event_series": [
+                {
+                    "category": "EXERCISES",
+                    "comments": null,
+                    "id": "50872210",
+                    "people": [
+                        "01068983"
+                    ],
+                    "time_label": "Fri 12:15-13:45, until 20.4."
+                },
+                {
+                    "category": "EXERCISES",
+                    "comments": null,
+                    "id": "50872209",
+                    "people": [
+                        "01021247"
+                    ],
+                    "time_label": "Fri 12:15-13:45, until 20.4."
+                },
+                {
+                    "category": "EXERCISES",
+                    "comments": null,
+                    "id": "50872158",
+                    "people": [
+                        "01007382"
+                    ],
+                    "time_label": "Fri 12:15-13:45, until 20.4."
+                },
+                {
+                    "category": "EXERCISES",
+                    "comments": null,
+                    "id": "50872219",
+                    "people": [
+                        "01039932"
+                    ],
+                    "time_label": "Mon 12:15-13:45, 26.2. until 9.4."
+                },
+                {
+                    "category": "EXERCISES",
+                    "comments": null,
+                    "id": "50872218",
+                    "people": [
+                        "01059636"
+                    ],
+                    "time_label": "Mon 12:15-13:45, 26.2. until 9.4."
+                },
+                {
+                    "category": "EXERCISES",
+                    "comments": null,
+                    "id": "50872217",
+                    "people": [
+                        "01017047"
+                    ],
+                    "time_label": "Mon 12:15-13:45, 26.2. until 9.4."
+                }
+            ],
+            "exam_literature": null,
+            "exam_mode": null,
+            "grading": "SWISS_HALF_GRADES",
+            "instructors": [
+                {
+                    "id": "01068983",
+                    "important": true,
+                    "instructor": {
+                        "_id": "587f7d4f9926d09674766f49",
+                        "first_name": "Lukasz",
+                        "header_image": null,
+                        "image": null,
+                        "last_name": "Grebski",
+                        "name": "lic. iur. Lukasz Grebski",
+                        "responsible": [],
+                        "teaching": [],
+                        "title": "lic. iur.",
+                        "uni_identifier": "01068983",
+                        "university": "UZH"
+                    },
+                    "type": [
+                        "EXERCISES"
+                    ]
+                },
+                {
+                    "id": "01021247",
+                    "important": false,
+                    "instructor": {
+                        "_id": "587f7d4f9926d09674766f4c",
+                        "first_name": "Adrian",
+                        "header_image": null,
+                        "image": null,
+                        "last_name": "von Kaenel",
+                        "name": "Dr. iur., RA Adrian von Kaenel",
+                        "responsible": [],
+                        "teaching": [],
+                        "title": "Dr. iur., RA",
+                        "uni_identifier": "01021247",
+                        "university": "UZH"
+                    },
+                    "type": [
+                        "EXERCISES"
+                    ]
+                },
+                {
+                    "id": "01007382",
+                    "important": false,
+                    "instructor": {
+                        "_id": "587f7d509926d09674766f51",
+                        "first_name": "Roland A.",
+                        "header_image": null,
+                        "image": null,
+                        "last_name": "M\u00fcller",
+                        "name": "Dr. iur. Roland A. M\u00fcller",
+                        "responsible": [],
+                        "teaching": [],
+                        "title": "Dr. iur.",
+                        "uni_identifier": "01007382",
+                        "university": "UZH"
+                    },
+                    "type": [
+                        "EXERCISES"
+                    ]
+                },
+                {
+                    "id": "01039932",
+                    "important": false,
+                    "instructor": {
+                        "_id": "587f7c879926d09674766af8",
+                        "first_name": "Bianka",
+                        "header_image": null,
+                        "image": null,
+                        "last_name": "D\u00f6rr B\u00fchlmann",
+                        "name": "Dr. iur. Bianka D\u00f6rr B\u00fchlmann",
+                        "responsible": [],
+                        "teaching": [],
+                        "title": "Dr. iur.",
+                        "uni_identifier": "01039932",
+                        "university": "UZH"
+                    },
+                    "type": [
+                        "EXERCISES"
+                    ]
+                },
+                {
+                    "id": "01059636",
+                    "important": false,
+                    "instructor": {
+                        "_id": "587f7be29926d0967476681f",
+                        "first_name": "Margot",
+                        "header_image": null,
+                        "image": null,
+                        "last_name": "Michel",
+                        "name": "Dr. iur. Margot Michel",
+                        "responsible": [],
+                        "teaching": [],
+                        "title": "Dr. iur.",
+                        "uni_identifier": "01059636",
+                        "university": "UZH"
+                    },
+                    "type": [
+                        "EXERCISES"
+                    ]
+                },
+                {
+                    "id": "01017047",
+                    "important": false,
+                    "instructor": {
+                        "_id": "587f7be29926d09674766827",
+                        "first_name": "Andrea",
+                        "header_image": null,
+                        "image": null,
+                        "last_name": "B\u00fcchler",
+                        "name": "Dr. Andrea B\u00fcchler",
+                        "responsible": [],
+                        "teaching": [],
+                        "title": "Dr.",
+                        "uni_identifier": "01017047",
+                        "university": "UZH"
+                    },
+                    "type": [
+                        "EXERCISES"
+                    ]
+                }
+            ],
+            "lecture_notes": null,
+            "links": null,
+            "materials": "Arbeitsrecht: Wolfgang Portmann/Jean-Fritz St\u00f6ckli, Schweizerisches Arbeitsrecht, Z\u00fcrich/St. Gallen (3. Auflage).\r\n\r\nMedizinrecht: werden im Unterricht bekannt gegeben",
+            "newest": null,
+            "objective": "Arbeitsrecht: Aneignung gr\u00fcndlicher Kenntnisse im Individualarbeitsrecht sowie im kollektiven und \u00f6ffentlichen Arbeitsrecht.\r\n\r\nMediznrecht: \u00dcberblick \u00fcber das Rechtsgebiet des Medizinrechts aus privatrechtlicher Sicht, Umgang mit medizinrechtlichen Fragestellungen",
+            "olat": null,
+            "period": 20181,
+            "period_human": "FS18",
+            "prerecognitions": "Arbeitsrecht: Allgemeiner Teil des Obligationenrechts\r\n\r\nMedizinrecht: Personenrecht, Familienrecht, Haftpflichtrecht, Obligationenrecht AT",
+            "prerequisites": "Arbeitsrecht: keine\r\n\r\nMedizinrecht: Assessment, Besuch der Vorlesung Obligationenrecht AT",
+            "registration_end": "2018-03-17T00:00:00.000Z",
+            "registration_start": "2018-01-18T10:00:00.000Z",
+            "repeatability": "TWICE",
+            "responsible": [
+                {
+                    "_id": "587f7be29926d09674766827",
+                    "first_name": "Andrea",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "B\u00fcchler",
+                    "name": "Dr. Andrea B\u00fcchler",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr.",
+                    "uni_identifier": "01017047",
+                    "university": "UZH"
+                },
+                {
+                    "_id": "587fa65bfb791d9d62735c97",
+                    "first_name": "Wolfgang",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Portmann",
+                    "name": "Dr. iur. Wolfgang Portmann",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr. iur.",
+                    "uni_identifier": "01000769",
+                    "university": "UZH"
+                }
+            ],
+            "seats_restriction": null,
+            "structure": null,
+            "test": "Arbeitsrecht: Schriftliche Pr\u00fcfung.\r\nDie Pr\u00fcfung umfasst das Individualarbeitsrecht und das kollektive Arbeitsrecht sowie die Grundz\u00fcge des \u00d6ffentlichen Arbeitsrechts.\r\nNicht gepr\u00fcft werden die Arbeitsvertr\u00e4ge mit besonderem Zweck und mit besonderem Arbeitsort.\r\n\r\nMedizinrecht: schriftliche.\r\nPr\u00fcfungsstoff: Die in der Vorlesung behandelte Materie (vgl. allgemeine Beschreibung)",
+            "waiting_list": null
+        },
+        "userCount": 87
+    },
+    "FS19": {
+        "gradesDetail": {
+            "average": 4.77,
+            "count": 15,
+            "failed": 0,
+            "passed": 15,
+            "semester": "FS19"
+        },
+        "semesterDetail": {
+            "additional_information": null,
+            "assessment": null,
+            "audience": "Arbeitsrecht: Studierende der Aufbaustufe, Studierende der Philosophischen Fakult\u00e4t, Mitarbeiter Human Resources\r\n\r\nMedizinrecht: Studierende der Rechtswissenschaft im 6. Semester",
+            "cancellation_end": "2019-03-30T00:00:00.000Z",
+            "cancellation_start": "2019-01-17T10:00:00.000Z",
+            "comment": null,
+            "content": null,
+            "credit_hours": null,
+            "credits": "9.00000",
+            "description": "Arbeitsrecht: Behandlung des Individualarbeitsrechts, des kollektiven Arbeitsrechts sowie der Grundz\u00fcge des \u00f6ffentlichen Arbeitsrechts. Das Modul umfasst die Veranstaltung Arbeitsrecht I und die Fallbesprechungen im Arbeitsrecht.\r\n\r\nMedizinrecht: Die Vorlesung befasst sich mit den Grundlagen der Querschnittsmaterie \"Medizinrecht\", widmet sich der rechtlichen Qualifikation von K\u00f6rper und K\u00f6rpersubstanzen, den Konzepten von Geburt und Tod, dem Behandlungsvertrag, der Einwilligung, den Patientenrechten, der besonderen Situation von minderj\u00e4hrigen und / oder urteilsunf\u00e4higen Patienten und Patientinnen, den Patientenverf\u00fcgungen und Vorsorgevollmachten, der Artzhaftung und den Spezialgebieten der Genetik, der Reproduktionsmedizin, der Transplantation und der medizinischen Forschung. Der Fokus liegt auf den privatrechtlichen Fragestellungen.",
+            "event_series": [
+                {
+                    "category": "EXERCISES",
+                    "comments": "\u00dcbungen im Arbeitsrecht Gruppe 3",
+                    "id": "50922289",
+                    "people": [
+                        "01068983"
+                    ],
+                    "time_label": "Fri 12:15-13:45, until 5.4."
+                },
+                {
+                    "category": "EXERCISES",
+                    "comments": "\u00dcbungen im Arbeitsrecht Gruppe 2",
+                    "id": "50922288",
+                    "people": [
+                        "01021247"
+                    ],
+                    "time_label": "Fri 12:15-13:45, until 5.4."
+                },
+                {
+                    "category": "EXERCISES",
+                    "comments": "\u00dcbungen im Arbeitsrecht Gruppe 1",
+                    "id": "50922287",
+                    "people": [
+                        "01007382"
+                    ],
+                    "time_label": "Fri 12:15-13:45, until 5.4."
+                },
+                {
+                    "category": "EXERCISES",
+                    "comments": "\u00dcbungen im Medizinrecht Gruppe 3",
+                    "id": "50922299",
+                    "people": [
+                        "01039932"
+                    ],
+                    "time_label": "Mon 12:15-13:45, 25.2. until 1.4."
+                },
+                {
+                    "category": "EXERCISES",
+                    "comments": "\u00dcbungen im Medizinrecht Gruppe 2",
+                    "id": "50922298",
+                    "people": [
+                        "01059636"
+                    ],
+                    "time_label": "Mon 12:15-13:45, 25.2. until 1.4."
+                },
+                {
+                    "category": "EXERCISES",
+                    "comments": "\u00dcbungen im Medizinrecht Gruppe 1",
+                    "id": "50922297",
+                    "people": [
+                        "01116053"
+                    ],
+                    "time_label": "Mon 12:15-13:45, 25.2. until 1.4."
+                }
+            ],
+            "exam_literature": null,
+            "exam_mode": null,
+            "grading": "SWISS_HALF_GRADES",
+            "instructors": [
+                {
+                    "id": "01068983",
+                    "important": true,
+                    "instructor": {
+                        "_id": "587f7d4f9926d09674766f49",
+                        "first_name": "Lukasz",
+                        "header_image": null,
+                        "image": null,
+                        "last_name": "Grebski",
+                        "name": "lic. iur. Lukasz Grebski",
+                        "responsible": [],
+                        "teaching": [],
+                        "title": "lic. iur.",
+                        "uni_identifier": "01068983",
+                        "university": "UZH"
+                    },
+                    "type": [
+                        "EXERCISES"
+                    ]
+                },
+                {
+                    "id": "01021247",
+                    "important": false,
+                    "instructor": {
+                        "_id": "587f7d4f9926d09674766f4c",
+                        "first_name": "Adrian",
+                        "header_image": null,
+                        "image": null,
+                        "last_name": "von Kaenel",
+                        "name": "Dr. iur., RA Adrian von Kaenel",
+                        "responsible": [],
+                        "teaching": [],
+                        "title": "Dr. iur., RA",
+                        "uni_identifier": "01021247",
+                        "university": "UZH"
+                    },
+                    "type": [
+                        "EXERCISES"
+                    ]
+                },
+                {
+                    "id": "01007382",
+                    "important": false,
+                    "instructor": {
+                        "_id": "587f7d509926d09674766f51",
+                        "first_name": "Roland A.",
+                        "header_image": null,
+                        "image": null,
+                        "last_name": "M\u00fcller",
+                        "name": "Dr. iur. Roland A. M\u00fcller",
+                        "responsible": [],
+                        "teaching": [],
+                        "title": "Dr. iur.",
+                        "uni_identifier": "01007382",
+                        "university": "UZH"
+                    },
+                    "type": [
+                        "EXERCISES"
+                    ]
+                },
+                {
+                    "id": "01039932",
+                    "important": false,
+                    "instructor": {
+                        "_id": "587f7c879926d09674766af8",
+                        "first_name": "Bianka",
+                        "header_image": null,
+                        "image": null,
+                        "last_name": "D\u00f6rr B\u00fchlmann",
+                        "name": "Dr. iur. Bianka D\u00f6rr B\u00fchlmann",
+                        "responsible": [],
+                        "teaching": [],
+                        "title": "Dr. iur.",
+                        "uni_identifier": "01039932",
+                        "university": "UZH"
+                    },
+                    "type": [
+                        "EXERCISES"
+                    ]
+                },
+                {
+                    "id": "01059636",
+                    "important": false,
+                    "instructor": {
+                        "_id": "587f7be29926d0967476681f",
+                        "first_name": "Margot",
+                        "header_image": null,
+                        "image": null,
+                        "last_name": "Michel",
+                        "name": "Dr. iur. Margot Michel",
+                        "responsible": [],
+                        "teaching": [],
+                        "title": "Dr. iur.",
+                        "uni_identifier": "01059636",
+                        "university": "UZH"
+                    },
+                    "type": [
+                        "EXERCISES"
+                    ]
+                },
+                {
+                    "id": "01116053",
+                    "important": false,
+                    "instructor": {
+                        "_id": "5bfd79ccb0da07001b92bab0",
+                        "first_name": "Sandro Philippe",
+                        "header_image": null,
+                        "image": null,
+                        "last_name": "Clausen",
+                        "name": "lic. iur., Rechtsanwalt Sandro Philippe Clausen",
+                        "responsible": [],
+                        "teaching": [],
+                        "title": "lic. iur., Rechtsanwalt",
+                        "uni_identifier": "01116053",
+                        "university": "UZH"
+                    },
+                    "type": [
+                        "EXERCISES"
+                    ]
+                }
+            ],
+            "lecture_notes": null,
+            "links": null,
+            "materials": "Arbeitsrecht: Wolfgang Portmann/Jean-Fritz St\u00f6ckli, Schweizerisches Arbeitsrecht, Z\u00fcrich/St. Gallen (3. Auflage).\r\n\r\nMedizinrecht: werden im Unterricht bekannt gegeben",
+            "newest": null,
+            "objective": "Arbeitsrecht: Aneignung gr\u00fcndlicher Kenntnisse im Individualarbeitsrecht sowie im kollektiven und \u00f6ffentlichen Arbeitsrecht.\r\n\r\nMediznrecht: \u00dcberblick \u00fcber das Rechtsgebiet des Medizinrechts aus privatrechtlicher Sicht, Umgang mit medizinrechtlichen Fragestellungen",
+            "olat": null,
+            "period": 20191,
+            "period_human": "FS19",
+            "prerecognitions": "Arbeitsrecht: Allgemeiner Teil des Obligationenrechts\r\n\r\nMedizinrecht: Personenrecht, Familienrecht, Haftpflichtrecht, Obligationenrecht AT",
+            "prerequisites": "Arbeitsrecht: keine\r\n\r\nMedizinrecht: Assessment, Besuch der Vorlesung Obligationenrecht AT",
+            "registration_end": "2019-03-16T00:00:00.000Z",
+            "registration_start": "2019-01-17T10:00:00.000Z",
+            "repeatability": "TWICE",
+            "responsible": [
+                {
+                    "_id": "587f7be29926d09674766827",
+                    "first_name": "Andrea",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "B\u00fcchler",
+                    "name": "Dr. Andrea B\u00fcchler",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr.",
+                    "uni_identifier": "01017047",
+                    "university": "UZH"
+                },
+                {
+                    "_id": "587fa65bfb791d9d62735c97",
+                    "first_name": "Wolfgang",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Portmann",
+                    "name": "Dr. iur. Wolfgang Portmann",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr. iur.",
+                    "uni_identifier": "01000769",
+                    "university": "UZH"
+                }
+            ],
+            "seats_restriction": null,
+            "structure": null,
+            "test": "Arbeitsrecht: Schriftliche Pr\u00fcfung.\r\nDie Pr\u00fcfung umfasst das Individualarbeitsrecht und das kollektive Arbeitsrecht sowie die Grundz\u00fcge des \u00d6ffentlichen Arbeitsrechts.\r\nNicht gepr\u00fcft werden die Arbeitsvertr\u00e4ge mit besonderem Zweck und mit besonderem Arbeitsort.Nicht gepr\u00fcft wird der Stoff der Randnoten 837\u2013914 und 962\u2013992 des Lehrbuchs Wolfgang Portmann/Jean-Fritz St\u00f6ckli, Schweizerisches Arbeitsrecht, 3. Aufl., Z\u00fcrich/St. Gallen 2013.\r\n\r\nMedizinrecht: schriftliche.\r\nPr\u00fcfungsstoff: Die in der Vorlesung behandelte Materie (vgl. allgemeine Beschreibung)",
+            "waiting_list": null
+        },
+        "userCount": 62
+    },
+    "FS20": {
+        "semesterDetail": {
+            "additional_information": null,
+            "assessment": null,
+            "audience": "Arbeitsrecht: Studierende der Aufbaustufe, Studierende der Philosophischen Fakult\u00e4t, Mitarbeiter Human Resources\r\n\r\nMedizinrecht: Studierende der Rechtswissenschaft im 6. Semester",
+            "cancellation_end": "2020-03-27T23:00:00.000Z",
+            "cancellation_start": "2020-01-16T09:00:00.000Z",
+            "comment": null,
+            "content": null,
+            "credit_hours": null,
+            "credits": "9.00000",
+            "description": "Arbeitsrecht: Behandlung des Individualarbeitsrechts, des kollektiven Arbeitsrechts sowie der Grundz\u00fcge des \u00f6ffentlichen Arbeitsrechts. Das Modul umfasst die Veranstaltung Arbeitsrecht I und die Fallbesprechungen im Arbeitsrecht.\r\n\r\nMedizinrecht: Die Vorlesung befasst sich mit den Grundlagen der Querschnittsmaterie \"Medizinrecht\", widmet sich der rechtlichen Qualifikation von K\u00f6rper und K\u00f6rpersubstanzen, den Konzepten von Geburt und Tod, dem Behandlungsvertrag, der Einwilligung, den Patientenrechten, der besonderen Situation von minderj\u00e4hrigen und / oder urteilsunf\u00e4higen Patienten und Patientinnen, den Patientenverf\u00fcgungen und Vorsorgevollmachten, der Artzhaftung und den Spezialgebieten der Genetik, der Reproduktionsmedizin, der Transplantation und der medizinischen Forschung. Der Fokus liegt auf den privatrechtlichen Fragestellungen.",
+            "event_series": [
+                {
+                    "category": "EXERCISES",
+                    "comments": "\u00dcbungen im Arbeitsrecht Gruppe 3",
+                    "id": "50979316",
+                    "people": [
+                        "01068983"
+                    ],
+                    "time_label": "Fri 12:15-13:45, until 3.4."
+                },
+                {
+                    "category": "EXERCISES",
+                    "comments": "\u00dcbungen im Arbeitsrecht Gruppe 2",
+                    "id": "50979315",
+                    "people": [
+                        "01021247"
+                    ],
+                    "time_label": "Fri 12:15-13:45, until 3.4."
+                },
+                {
+                    "category": "EXERCISES",
+                    "comments": "\u00dcbungen im Arbeitsrecht Gruppe 1",
+                    "id": "50979314",
+                    "people": [
+                        "01007382"
+                    ],
+                    "time_label": "Fri 12:15-13:45, until 3.4."
+                },
+                {
+                    "category": "EXERCISES",
+                    "comments": "\u00dcbungen im Medizinrecht Gruppe 3",
+                    "id": "50979324",
+                    "people": [
+                        "01116053"
+                    ],
+                    "time_label": "Mon 12:15-13:45, 24.2. until 30.3."
+                },
+                {
+                    "category": "EXERCISES",
+                    "comments": "\u00dcbungen im Medizinrecht Gruppe 2",
+                    "id": "50979323",
+                    "people": [
+                        "01059636"
+                    ],
+                    "time_label": "Mon 12:15-13:45, 24.2. until 30.3."
+                },
+                {
+                    "category": "EXERCISES",
+                    "comments": "\u00dcbungen im Medizinrecht Gruppe 1",
+                    "id": "50979322",
+                    "people": [
+                        "01017047"
+                    ],
+                    "time_label": "Mon 12:15-13:45, 24.2. until 30.3."
+                }
+            ],
+            "exam_literature": null,
+            "grading": "SWISS_HALF_GRADES",
+            "instructors": [
+                {
+                    "id": "01068983",
+                    "important": true,
+                    "instructor": {
+                        "_id": "587f7d4f9926d09674766f49",
+                        "first_name": "Lukasz",
+                        "header_image": null,
+                        "image": null,
+                        "last_name": "Grebski",
+                        "name": "lic. iur. Lukasz Grebski",
+                        "responsible": [],
+                        "teaching": [],
+                        "title": "lic. iur.",
+                        "uni_identifier": "01068983",
+                        "university": "UZH"
+                    },
+                    "type": [
+                        "EXERCISES"
+                    ]
+                },
+                {
+                    "id": "01021247",
+                    "important": false,
+                    "instructor": {
+                        "_id": "587f7d4f9926d09674766f4c",
+                        "first_name": "Adrian",
+                        "header_image": null,
+                        "image": null,
+                        "last_name": "von Kaenel",
+                        "name": "Dr. iur., RA Adrian von Kaenel",
+                        "responsible": [],
+                        "teaching": [],
+                        "title": "Dr. iur., RA",
+                        "uni_identifier": "01021247",
+                        "university": "UZH"
+                    },
+                    "type": [
+                        "EXERCISES"
+                    ]
+                },
+                {
+                    "id": "01007382",
+                    "important": false,
+                    "instructor": {
+                        "_id": "587f7d509926d09674766f51",
+                        "first_name": "Roland A.",
+                        "header_image": null,
+                        "image": null,
+                        "last_name": "M\u00fcller",
+                        "name": "Dr. iur. Roland A. M\u00fcller",
+                        "responsible": [],
+                        "teaching": [],
+                        "title": "Dr. iur.",
+                        "uni_identifier": "01007382",
+                        "university": "UZH"
+                    },
+                    "type": [
+                        "EXERCISES"
+                    ]
+                },
+                {
+                    "id": "01116053",
+                    "important": false,
+                    "instructor": {
+                        "_id": "5bfd79ccb0da07001b92bab0",
+                        "first_name": "Sandro Philippe",
+                        "header_image": null,
+                        "image": null,
+                        "last_name": "Clausen",
+                        "name": "lic. iur., Rechtsanwalt Sandro Philippe Clausen",
+                        "responsible": [],
+                        "teaching": [],
+                        "title": "lic. iur., Rechtsanwalt",
+                        "uni_identifier": "01116053",
+                        "university": "UZH"
+                    },
+                    "type": [
+                        "EXERCISES"
+                    ]
+                },
+                {
+                    "id": "01059636",
+                    "important": false,
+                    "instructor": {
+                        "_id": "587f7be29926d0967476681f",
+                        "first_name": "Margot",
+                        "header_image": null,
+                        "image": null,
+                        "last_name": "Michel",
+                        "name": "Dr. iur. Margot Michel",
+                        "responsible": [],
+                        "teaching": [],
+                        "title": "Dr. iur.",
+                        "uni_identifier": "01059636",
+                        "university": "UZH"
+                    },
+                    "type": [
+                        "EXERCISES"
+                    ]
+                },
+                {
+                    "id": "01017047",
+                    "important": false,
+                    "instructor": {
+                        "_id": "587f7be29926d09674766827",
+                        "first_name": "Andrea",
+                        "header_image": null,
+                        "image": null,
+                        "last_name": "B\u00fcchler",
+                        "name": "Dr. Andrea B\u00fcchler",
+                        "responsible": [],
+                        "teaching": [],
+                        "title": "Dr.",
+                        "uni_identifier": "01017047",
+                        "university": "UZH"
+                    },
+                    "type": [
+                        "EXERCISES"
+                    ]
+                }
+            ],
+            "lecture_notes": null,
+            "links": null,
+            "materials": "Arbeitsrecht: Wolfgang Portmann/Jean-Fritz St\u00f6ckli, Schweizerisches Arbeitsrecht, Z\u00fcrich/St. Gallen (3. Auflage).\r\n\r\nMedizinrecht: werden im Unterricht bekannt gegeben",
+            "objective": "Arbeitsrecht: Aneignung gr\u00fcndlicher Kenntnisse im Individualarbeitsrecht sowie im kollektiven und \u00f6ffentlichen Arbeitsrecht.\r\n\r\nMediznrecht: \u00dcberblick \u00fcber das Rechtsgebiet des Medizinrechts aus privatrechtlicher Sicht, Umgang mit medizinrechtlichen Fragestellungen",
+            "olat": null,
+            "period": 20201,
+            "period_human": "FS20",
+            "prerecognitions": "Arbeitsrecht: Allgemeiner Teil des Obligationenrechts\r\n\r\nMedizinrecht: Personenrecht, Familienrecht, Haftpflichtrecht, Obligationenrecht AT",
+            "prerequisites": "Arbeitsrecht: keine\r\n\r\nMedizinrecht: Assessment, Besuch der Vorlesung Obligationenrecht AT",
+            "registration_end": "2020-03-13T23:00:00.000Z",
+            "registration_start": "2020-01-16T09:00:00.000Z",
+            "repeatability": "TWICE",
+            "responsible": [
+                {
+                    "_id": "587f7be29926d09674766827",
+                    "first_name": "Andrea",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "B\u00fcchler",
+                    "name": "Dr. Andrea B\u00fcchler",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr.",
+                    "uni_identifier": "01017047",
+                    "university": "UZH"
+                },
+                {
+                    "_id": "587fa65bfb791d9d62735c97",
+                    "first_name": "Wolfgang",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Portmann",
+                    "name": "Dr. iur. Wolfgang Portmann",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr. iur.",
+                    "uni_identifier": "01000769",
+                    "university": "UZH"
+                }
+            ],
+            "seats_restriction": null,
+            "structure": null,
+            "test": "Arbeitsrecht: Schriftliche Pr\u00fcfung.\r\nDie Pr\u00fcfung umfasst das Individualarbeitsrecht und das kollektive Arbeitsrecht sowie die Grundz\u00fcge des \u00d6ffentlichen Arbeitsrechts.\r\nNicht gepr\u00fcft werden die Arbeitsvertr\u00e4ge mit besonderem Zweck und mit besonderem Arbeitsort.\r\nNicht gepr\u00fcft wird der Stoff der Randnoten 837\u2013914 und 962\u2013992 des Lehrbuchs Wolfgang Portmann/Jean-Fritz St\u00f6ckli, Schweizerisches Arbeitsrecht, 3. Aufl., Z\u00fcrich/St. Gallen 2013.\r\nMedizinrecht: schriftliche.\r\nPr\u00fcfungsstoff: Die in der Vorlesung behandelte Materie (vgl. allgemeine Beschreibung)",
+            "waiting_list": null
+        },
+        "userCount": 5
+    },
+    "HS14": {
+        "semesterDetail": {
+            "additional_information": null,
+            "assessment": null,
+            "audience": "Arbeitsrecht: Studierende der Aufbaustufe, Studierende der Philosophischen Fakult\u00e4t, Mitarbeiter Human Resources\r\n\r\nMedizinrecht: Studierende der Rechtswissenschaft im 6. Semester",
+            "cancellation_end": null,
+            "cancellation_start": null,
+            "comment": null,
+            "content": null,
+            "credit_hours": null,
+            "credits": "9.00000",
+            "description": "Arbeitsrecht: Behandlung des Individualarbeitsrechts, des kollektiven Arbeitsrechts sowie der Grundz\u00fcge des \u00f6ffentlichen Arbeitsrechts. Das Modul umfasst die Veranstaltung Arbeitsrecht I und die Fallbesprechungen im Arbeitsrecht.\r\n\r\nMedizinrecht: Die Vorlesung befasst sich mit den Grundlagen der Querschnittsmaterie \"Medizinrecht\", widmet sich der rechtlichen Qualifikation von K\u00f6rper und K\u00f6rpersubstanzen, den Konzepten von Geburt und Tod, dem Behandlungsvertrag, der Einwilligung, den Patientenrechten, der besonderen Situation von minderj\u00e4hrigen und / oder urteilsunf\u00e4higen Patienten und Patientinnen, den Patientenverf\u00fcgungen und Vorsorgevollmachten, der Artzhaftung und den Spezialgebieten der Genetik, der Reproduktionsmedizin, der Transplantation und der medizinischen Forschung. Der Fokus liegt auf den privatrechtlichen Fragestellungen.",
+            "event_series": [
+                {
+                    "category": "COURSE",
+                    "id": "50686962",
+                    "people": [
+                        "01000769"
+                    ],
+                    "time_label": "Fri 10:15-12:00"
+                },
+                {
+                    "category": "LECTURE_AND_EXERCISES",
+                    "id": "50686970",
+                    "people": [
+                        "01017047"
+                    ],
+                    "time_label": "Tue 12:15-13:45"
+                }
+            ],
+            "exam_literature": null,
+            "grading": "SWISS_HALF_GRADES",
+            "instructors": [],
+            "lecture_notes": null,
+            "links": null,
+            "materials": "Arbeitsrecht: Wolfgang Portmann/Jean-Fritz St\u00f6ckli, Schweizerisches Arbeitsrecht, Z\u00fcrich/St. Gallen (3. Auflage).\r\n\r\nMedizinrecht: werden im Unterricht bekannt gegeben",
+            "newest": null,
+            "objective": "Arbeitsrecht: Aneignung gr\u00fcndlicher Kenntnisse im Individualarbeitsrecht sowie im kollektiven und \u00f6ffentlichen Arbeitsrecht.\r\n\r\nMediznrecht: \u00dcberblick \u00fcber das Rechtsgebiet des Medizinrechts aus privatrechtlicher Sicht, Umgang mit medizinrechtlichen Fragestellungen",
+            "olat": null,
+            "period": 20142,
+            "period_human": "HS14",
+            "prerecognitions": "Arbeitsrecht: Allgemeiner Teil des Obligationenrechts\r\n\r\nMedizinrecht: Personenrecht, Familienrecht, Haftpflichtrecht, Obligationenrecht AT",
+            "prerequisites": "Arbeitsrecht: keine\r\n\r\nMedizinrecht: Assessment, Besuch der Vorlesung Obligationenrecht AT",
+            "registration_end": null,
+            "registration_start": null,
+            "repeatability": "TWICE",
+            "responsible": [
+                {
+                    "_id": "587f7be29926d09674766827",
+                    "first_name": "Andrea",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "B\u00fcchler",
+                    "name": "Dr. Andrea B\u00fcchler",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr.",
+                    "uni_identifier": "01017047",
+                    "university": "UZH"
+                },
+                {
+                    "_id": "587fa65bfb791d9d62735c97",
+                    "first_name": "Wolfgang",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Portmann",
+                    "name": "Dr. iur. Wolfgang Portmann",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr. iur.",
+                    "uni_identifier": "01000769",
+                    "university": "UZH"
+                }
+            ],
+            "seats_restriction": null,
+            "structure": null,
+            "test": null,
+            "waiting_list": null
+        }
+    },
+    "HS15": {
+        "semesterDetail": {
+            "additional_information": null,
+            "assessment": null,
+            "audience": "Arbeitsrecht: Studierende der Aufbaustufe, Studierende der Philosophischen Fakult\u00e4t, Mitarbeiter Human Resources\r\n\r\nMedizinrecht: Studierende der Rechtswissenschaft im 6. Semester",
+            "cancellation_end": null,
+            "cancellation_start": null,
+            "comment": null,
+            "content": null,
+            "credit_hours": null,
+            "credits": "9.00000",
+            "description": "Arbeitsrecht: Behandlung des Individualarbeitsrechts, des kollektiven Arbeitsrechts sowie der Grundz\u00fcge des \u00f6ffentlichen Arbeitsrechts. Das Modul umfasst die Veranstaltung Arbeitsrecht I und die Fallbesprechungen im Arbeitsrecht.\r\n\r\nMedizinrecht: Die Vorlesung befasst sich mit den Grundlagen der Querschnittsmaterie \"Medizinrecht\", widmet sich der rechtlichen Qualifikation von K\u00f6rper und K\u00f6rpersubstanzen, den Konzepten von Geburt und Tod, dem Behandlungsvertrag, der Einwilligung, den Patientenrechten, der besonderen Situation von minderj\u00e4hrigen und / oder urteilsunf\u00e4higen Patienten und Patientinnen, den Patientenverf\u00fcgungen und Vorsorgevollmachten, der Artzhaftung und den Spezialgebieten der Genetik, der Reproduktionsmedizin, der Transplantation und der medizinischen Forschung. Der Fokus liegt auf den privatrechtlichen Fragestellungen.",
+            "event_series": [
+                {
+                    "category": "COURSE",
+                    "id": "50734746",
+                    "people": [
+                        "01000769"
+                    ],
+                    "time_label": "Fri 10:15-12:00"
+                },
+                {
+                    "category": "LECTURE_AND_EXERCISES",
+                    "id": "50734748",
+                    "people": [
+                        "01017047"
+                    ],
+                    "time_label": "Tue 12:15-13:45"
+                }
+            ],
+            "exam_literature": null,
+            "grading": "SWISS_HALF_GRADES",
+            "instructors": [],
+            "lecture_notes": null,
+            "links": null,
+            "materials": "Arbeitsrecht: Wolfgang Portmann/Jean-Fritz St\u00f6ckli, Schweizerisches Arbeitsrecht, Z\u00fcrich/St. Gallen (3. Auflage).\r\n\r\nMedizinrecht: werden im Unterricht bekannt gegeben",
+            "newest": null,
+            "objective": "Arbeitsrecht: Aneignung gr\u00fcndlicher Kenntnisse im Individualarbeitsrecht sowie im kollektiven und \u00f6ffentlichen Arbeitsrecht.\r\n\r\nMediznrecht: \u00dcberblick \u00fcber das Rechtsgebiet des Medizinrechts aus privatrechtlicher Sicht, Umgang mit medizinrechtlichen Fragestellungen",
+            "olat": null,
+            "period": 20152,
+            "period_human": "HS15",
+            "prerecognitions": "Arbeitsrecht: Allgemeiner Teil des Obligationenrechts\r\n\r\nMedizinrecht: Personenrecht, Familienrecht, Haftpflichtrecht, Obligationenrecht AT",
+            "prerequisites": "Arbeitsrecht: keine\r\n\r\nMedizinrecht: Assessment, Besuch der Vorlesung Obligationenrecht AT",
+            "registration_end": null,
+            "registration_start": null,
+            "repeatability": "TWICE",
+            "responsible": [
+                {
+                    "_id": "587f7be29926d09674766827",
+                    "first_name": "Andrea",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "B\u00fcchler",
+                    "name": "Dr. Andrea B\u00fcchler",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr.",
+                    "uni_identifier": "01017047",
+                    "university": "UZH"
+                },
+                {
+                    "_id": "587fa65bfb791d9d62735c97",
+                    "first_name": "Wolfgang",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Portmann",
+                    "name": "Dr. iur. Wolfgang Portmann",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr. iur.",
+                    "uni_identifier": "01000769",
+                    "university": "UZH"
+                }
+            ],
+            "seats_restriction": null,
+            "structure": null,
+            "test": null,
+            "waiting_list": null
+        }
+    },
+    "HS16": {
+        "semesterDetail": {
+            "additional_information": null,
+            "assessment": null,
+            "audience": "Arbeitsrecht: Studierende der Aufbaustufe, Studierende der Philosophischen Fakult\u00e4t, Mitarbeiter Human Resources\r\n\r\nMedizinrecht: Studierende der Rechtswissenschaft im 6. Semester",
+            "cancellation_end": null,
+            "cancellation_start": null,
+            "comment": null,
+            "content": null,
+            "credit_hours": null,
+            "credits": "9.00000",
+            "description": "Arbeitsrecht: Behandlung des Individualarbeitsrechts, des kollektiven Arbeitsrechts sowie der Grundz\u00fcge des \u00f6ffentlichen Arbeitsrechts. Das Modul umfasst die Veranstaltung Arbeitsrecht I und die Fallbesprechungen im Arbeitsrecht.\r\n\r\nMedizinrecht: Die Vorlesung befasst sich mit den Grundlagen der Querschnittsmaterie \"Medizinrecht\", widmet sich der rechtlichen Qualifikation von K\u00f6rper und K\u00f6rpersubstanzen, den Konzepten von Geburt und Tod, dem Behandlungsvertrag, der Einwilligung, den Patientenrechten, der besonderen Situation von minderj\u00e4hrigen und / oder urteilsunf\u00e4higen Patienten und Patientinnen, den Patientenverf\u00fcgungen und Vorsorgevollmachten, der Artzhaftung und den Spezialgebieten der Genetik, der Reproduktionsmedizin, der Transplantation und der medizinischen Forschung. Der Fokus liegt auf den privatrechtlichen Fragestellungen.",
+            "event_series": [
+                {
+                    "category": "COURSE",
+                    "id": "50789984",
+                    "people": [
+                        "01000769"
+                    ],
+                    "time_label": "Fri 10:15-12:00"
+                },
+                {
+                    "category": "LECTURE_AND_EXERCISES",
+                    "id": "50789988",
+                    "people": [
+                        "01017047"
+                    ],
+                    "time_label": "Tue 12:15-13:45"
+                }
+            ],
+            "exam_literature": null,
+            "grading": "SWISS_HALF_GRADES",
+            "instructors": [],
+            "lecture_notes": null,
+            "links": null,
+            "materials": "Arbeitsrecht: Wolfgang Portmann/Jean-Fritz St\u00f6ckli, Schweizerisches Arbeitsrecht, Z\u00fcrich/St. Gallen (3. Auflage).\r\n\r\nMedizinrecht: werden im Unterricht bekannt gegeben",
+            "newest": null,
+            "objective": "Arbeitsrecht: Aneignung gr\u00fcndlicher Kenntnisse im Individualarbeitsrecht sowie im kollektiven und \u00f6ffentlichen Arbeitsrecht.\r\n\r\nMediznrecht: \u00dcberblick \u00fcber das Rechtsgebiet des Medizinrechts aus privatrechtlicher Sicht, Umgang mit medizinrechtlichen Fragestellungen",
+            "olat": null,
+            "period": 20162,
+            "period_human": "HS16",
+            "prerecognitions": "Arbeitsrecht: Allgemeiner Teil des Obligationenrechts\r\n\r\nMedizinrecht: Personenrecht, Familienrecht, Haftpflichtrecht, Obligationenrecht AT",
+            "prerequisites": "Arbeitsrecht: keine\r\n\r\nMedizinrecht: Assessment, Besuch der Vorlesung Obligationenrecht AT",
+            "registration_end": null,
+            "registration_start": null,
+            "repeatability": "TWICE",
+            "responsible": [
+                {
+                    "_id": "587f7be29926d09674766827",
+                    "first_name": "Andrea",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "B\u00fcchler",
+                    "name": "Dr. Andrea B\u00fcchler",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr.",
+                    "uni_identifier": "01017047",
+                    "university": "UZH"
+                },
+                {
+                    "_id": "587fa65bfb791d9d62735c97",
+                    "first_name": "Wolfgang",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Portmann",
+                    "name": "Dr. iur. Wolfgang Portmann",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr. iur.",
+                    "uni_identifier": "01000769",
+                    "university": "UZH"
+                }
+            ],
+            "seats_restriction": null,
+            "structure": null,
+            "test": null,
+            "waiting_list": null
+        }
+    },
+    "HS17": {
+        "semesterDetail": {
+            "additional_information": null,
+            "assessment": null,
+            "audience": "Arbeitsrecht: Studierende der Aufbaustufe, Studierende der Philosophischen Fakult\u00e4t, Mitarbeiter Human Resources\r\n\r\nMedizinrecht: Studierende der Rechtswissenschaft im 6. Semester",
+            "cancellation_end": null,
+            "cancellation_start": null,
+            "comment": null,
+            "content": null,
+            "credit_hours": null,
+            "credits": "9.00000",
+            "description": "Arbeitsrecht: Behandlung des Individualarbeitsrechts, des kollektiven Arbeitsrechts sowie der Grundz\u00fcge des \u00f6ffentlichen Arbeitsrechts. Das Modul umfasst die Veranstaltung Arbeitsrecht I und die Fallbesprechungen im Arbeitsrecht.\r\n\r\nMedizinrecht: Die Vorlesung befasst sich mit den Grundlagen der Querschnittsmaterie \"Medizinrecht\", widmet sich der rechtlichen Qualifikation von K\u00f6rper und K\u00f6rpersubstanzen, den Konzepten von Geburt und Tod, dem Behandlungsvertrag, der Einwilligung, den Patientenrechten, der besonderen Situation von minderj\u00e4hrigen und / oder urteilsunf\u00e4higen Patienten und Patientinnen, den Patientenverf\u00fcgungen und Vorsorgevollmachten, der Artzhaftung und den Spezialgebieten der Genetik, der Reproduktionsmedizin, der Transplantation und der medizinischen Forschung. Der Fokus liegt auf den privatrechtlichen Fragestellungen.",
+            "event_series": [
+                {
+                    "category": "COURSE",
+                    "id": "50840808",
+                    "people": [
+                        "01000769"
+                    ],
+                    "time_label": "Fri 10:15-12:00"
+                },
+                {
+                    "category": "LECTURE_AND_EXERCISES",
+                    "id": "50840862",
+                    "people": [
+                        "01017047"
+                    ],
+                    "time_label": "Tue 12:15-13:45"
+                }
+            ],
+            "exam_literature": null,
+            "exam_mode": null,
+            "grading": "SWISS_QUARTER_GRADES",
+            "instructors": [],
+            "lecture_notes": null,
+            "links": null,
+            "materials": "Arbeitsrecht: Wolfgang Portmann/Jean-Fritz St\u00f6ckli, Schweizerisches Arbeitsrecht, Z\u00fcrich/St. Gallen (3. Auflage).\r\n\r\nMedizinrecht: werden im Unterricht bekannt gegeben",
+            "newest": null,
+            "objective": "Arbeitsrecht: Aneignung gr\u00fcndlicher Kenntnisse im Individualarbeitsrecht sowie im kollektiven und \u00f6ffentlichen Arbeitsrecht.\r\n\r\nMediznrecht: \u00dcberblick \u00fcber das Rechtsgebiet des Medizinrechts aus privatrechtlicher Sicht, Umgang mit medizinrechtlichen Fragestellungen",
+            "olat": null,
+            "period": 20172,
+            "period_human": "HS17",
+            "prerecognitions": "Arbeitsrecht: Allgemeiner Teil des Obligationenrechts\r\n\r\nMedizinrecht: Personenrecht, Familienrecht, Haftpflichtrecht, Obligationenrecht AT",
+            "prerequisites": "Arbeitsrecht: keine\r\n\r\nMedizinrecht: Assessment, Besuch der Vorlesung Obligationenrecht AT",
+            "registration_end": "2017-10-13T21:59:59.000Z",
+            "registration_start": "2017-08-17T08:00:00.000Z",
+            "repeatability": "TWICE",
+            "responsible": [
+                {
+                    "_id": "587f7be29926d09674766827",
+                    "first_name": "Andrea",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "B\u00fcchler",
+                    "name": "Dr. Andrea B\u00fcchler",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr.",
+                    "uni_identifier": "01017047",
+                    "university": "UZH"
+                },
+                {
+                    "_id": "587fa65bfb791d9d62735c97",
+                    "first_name": "Wolfgang",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Portmann",
+                    "name": "Dr. iur. Wolfgang Portmann",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr. iur.",
+                    "uni_identifier": "01000769",
+                    "university": "UZH"
+                }
+            ],
+            "seats_restriction": null,
+            "structure": null,
+            "test": null,
+            "waiting_list": null
+        }
+    },
+    "HS18": {
+        "semesterDetail": {
+            "additional_information": null,
+            "assessment": null,
+            "audience": "Arbeitsrecht: Studierende der Aufbaustufe, Studierende der Philosophischen Fakult\u00e4t, Mitarbeiter Human Resources\r\n\r\nMedizinrecht: Studierende der Rechtswissenschaft im 6. Semester",
+            "cancellation_end": null,
+            "cancellation_start": null,
+            "comment": null,
+            "content": null,
+            "credit_hours": null,
+            "credits": "9.00000",
+            "description": "Arbeitsrecht: Behandlung des Individualarbeitsrechts, des kollektiven Arbeitsrechts sowie der Grundz\u00fcge des \u00f6ffentlichen Arbeitsrechts. Das Modul umfasst die Veranstaltung Arbeitsrecht I und die Fallbesprechungen im Arbeitsrecht.\r\n\r\nMedizinrecht: Die Vorlesung befasst sich mit den Grundlagen der Querschnittsmaterie \"Medizinrecht\", widmet sich der rechtlichen Qualifikation von K\u00f6rper und K\u00f6rpersubstanzen, den Konzepten von Geburt und Tod, dem Behandlungsvertrag, der Einwilligung, den Patientenrechten, der besonderen Situation von minderj\u00e4hrigen und / oder urteilsunf\u00e4higen Patienten und Patientinnen, den Patientenverf\u00fcgungen und Vorsorgevollmachten, der Artzhaftung und den Spezialgebieten der Genetik, der Reproduktionsmedizin, der Transplantation und der medizinischen Forschung. Der Fokus liegt auf den privatrechtlichen Fragestellungen.",
+            "event_series": [
+                {
+                    "category": "COURSE",
+                    "comments": "Arbeitsrecht",
+                    "id": "50888585",
+                    "people": [
+                        "01000769"
+                    ],
+                    "time_label": "Fri 10:15-12:00"
+                },
+                {
+                    "category": "LECTURE_AND_EXERCISES",
+                    "comments": "Medizinrecht",
+                    "id": "50888590",
+                    "people": [
+                        "01017047"
+                    ],
+                    "time_label": "Tue 12:15-13:45, from 25.9."
+                }
+            ],
+            "exam_literature": null,
+            "exam_mode": null,
+            "grading": "SWISS_HALF_GRADES",
+            "instructors": [
+                {
+                    "id": "01000769",
+                    "important": true,
+                    "instructor": {
+                        "_id": "587fa65bfb791d9d62735c97",
+                        "first_name": "Wolfgang",
+                        "header_image": null,
+                        "image": null,
+                        "last_name": "Portmann",
+                        "name": "Dr. iur. Wolfgang Portmann",
+                        "responsible": [],
+                        "teaching": [],
+                        "title": "Dr. iur.",
+                        "uni_identifier": "01000769",
+                        "university": "UZH"
+                    },
+                    "type": [
+                        "COURSE"
+                    ]
+                },
+                {
+                    "id": "01017047",
+                    "important": true,
+                    "instructor": {
+                        "_id": "587f7be29926d09674766827",
+                        "first_name": "Andrea",
+                        "header_image": null,
+                        "image": null,
+                        "last_name": "B\u00fcchler",
+                        "name": "Dr. Andrea B\u00fcchler",
+                        "responsible": [],
+                        "teaching": [],
+                        "title": "Dr.",
+                        "uni_identifier": "01017047",
+                        "university": "UZH"
+                    },
+                    "type": [
+                        "LECTURE_AND_EXERCISES"
+                    ]
+                }
+            ],
+            "lecture_notes": null,
+            "links": null,
+            "materials": "Arbeitsrecht: Wolfgang Portmann/Jean-Fritz St\u00f6ckli, Schweizerisches Arbeitsrecht, Z\u00fcrich/St. Gallen (3. Auflage).\r\n\r\nMedizinrecht: werden im Unterricht bekannt gegeben",
+            "newest": null,
+            "objective": "Arbeitsrecht: Aneignung gr\u00fcndlicher Kenntnisse im Individualarbeitsrecht sowie im kollektiven und \u00f6ffentlichen Arbeitsrecht.\r\n\r\nMediznrecht: \u00dcberblick \u00fcber das Rechtsgebiet des Medizinrechts aus privatrechtlicher Sicht, Umgang mit medizinrechtlichen Fragestellungen",
+            "olat": null,
+            "period": 20182,
+            "period_human": "HS18",
+            "prerecognitions": "Arbeitsrecht: Allgemeiner Teil des Obligationenrechts\r\n\r\nMedizinrecht: Personenrecht, Familienrecht, Haftpflichtrecht, Obligationenrecht AT",
+            "prerequisites": "Arbeitsrecht: keine\r\n\r\nMedizinrecht: Assessment, Besuch der Vorlesung Obligationenrecht AT",
+            "registration_end": null,
+            "registration_start": null,
+            "repeatability": "TWICE",
+            "responsible": [
+                {
+                    "_id": "587f7be29926d09674766827",
+                    "first_name": "Andrea",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "B\u00fcchler",
+                    "name": "Dr. Andrea B\u00fcchler",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr.",
+                    "uni_identifier": "01017047",
+                    "university": "UZH"
+                },
+                {
+                    "_id": "587fa65bfb791d9d62735c97",
+                    "first_name": "Wolfgang",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Portmann",
+                    "name": "Dr. iur. Wolfgang Portmann",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr. iur.",
+                    "uni_identifier": "01000769",
+                    "university": "UZH"
+                }
+            ],
+            "seats_restriction": null,
+            "structure": null,
+            "test": "Arbeitsrecht: Schriftliche Pr\u00fcfung.\r\nDie Pr\u00fcfung umfasst das Individualarbeitsrecht und das kollektive Arbeitsrecht sowie die Grundz\u00fcge des \u00d6ffentlichen Arbeitsrechts.\r\nNicht gepr\u00fcft werden die Arbeitsvertr\u00e4ge mit besonderem Zweck und mit besonderem Arbeitsort.\r\n\r\nMedizinrecht: schriftliche.\r\nPr\u00fcfungsstoff: Die in der Vorlesung behandelte Materie (vgl. allgemeine Beschreibung)",
+            "waiting_list": null
+        }
+    },
+    "HS19": {
+        "semesterDetail": {
+            "additional_information": null,
+            "assessment": null,
+            "audience": "Arbeitsrecht: Studierende der Aufbaustufe, Studierende der Philosophischen Fakult\u00e4t, Mitarbeiter Human Resources\r\n\r\nMedizinrecht: Studierende der Rechtswissenschaft im 6. Semester",
+            "cancellation_end": null,
+            "cancellation_start": null,
+            "comment": null,
+            "content": null,
+            "credit_hours": null,
+            "credits": "9.00000",
+            "description": "Arbeitsrecht: Behandlung des Individualarbeitsrechts, des kollektiven Arbeitsrechts sowie der Grundz\u00fcge des \u00f6ffentlichen Arbeitsrechts. Das Modul umfasst die Veranstaltung Arbeitsrecht I und die Fallbesprechungen im Arbeitsrecht.\r\n\r\nMedizinrecht: Die Vorlesung befasst sich mit den Grundlagen der Querschnittsmaterie \"Medizinrecht\", widmet sich der rechtlichen Qualifikation von K\u00f6rper und K\u00f6rpersubstanzen, den Konzepten von Geburt und Tod, dem Behandlungsvertrag, der Einwilligung, den Patientenrechten, der besonderen Situation von minderj\u00e4hrigen und / oder urteilsunf\u00e4higen Patienten und Patientinnen, den Patientenverf\u00fcgungen und Vorsorgevollmachten, der Artzhaftung und den Spezialgebieten der Genetik, der Reproduktionsmedizin, der Transplantation und der medizinischen Forschung. Der Fokus liegt auf den privatrechtlichen Fragestellungen.",
+            "event_series": [
+                {
+                    "category": "COURSE",
+                    "comments": "Arbeitsrecht",
+                    "id": "50940567",
+                    "people": [
+                        "01000769"
+                    ],
+                    "time_label": "Fri 10:15-12:00, from 27.9."
+                },
+                {
+                    "category": "LECTURE_AND_EXERCISES",
+                    "comments": "Medizinrecht",
+                    "id": "50940572",
+                    "people": [
+                        "01017047"
+                    ],
+                    "time_label": "Mon 14:00-15:45"
+                }
+            ],
+            "exam_literature": null,
+            "grading": "SWISS_HALF_GRADES",
+            "instructors": [
+                {
+                    "id": "01000769",
+                    "important": true,
+                    "instructor": {
+                        "_id": "587fa65bfb791d9d62735c97",
+                        "first_name": "Wolfgang",
+                        "header_image": null,
+                        "image": null,
+                        "last_name": "Portmann",
+                        "name": "Dr. iur. Wolfgang Portmann",
+                        "responsible": [],
+                        "teaching": [],
+                        "title": "Dr. iur.",
+                        "uni_identifier": "01000769",
+                        "university": "UZH"
+                    },
+                    "type": [
+                        "COURSE"
+                    ]
+                },
+                {
+                    "id": "01017047",
+                    "important": true,
+                    "instructor": {
+                        "_id": "587f7be29926d09674766827",
+                        "first_name": "Andrea",
+                        "header_image": null,
+                        "image": null,
+                        "last_name": "B\u00fcchler",
+                        "name": "Dr. Andrea B\u00fcchler",
+                        "responsible": [],
+                        "teaching": [],
+                        "title": "Dr.",
+                        "uni_identifier": "01017047",
+                        "university": "UZH"
+                    },
+                    "type": [
+                        "LECTURE_AND_EXERCISES"
+                    ]
+                }
+            ],
+            "lecture_notes": null,
+            "links": null,
+            "materials": "Arbeitsrecht: Wolfgang Portmann/Jean-Fritz St\u00f6ckli, Schweizerisches Arbeitsrecht, Z\u00fcrich/St. Gallen (3. Auflage).\r\n\r\nMedizinrecht: werden im Unterricht bekannt gegeben",
+            "objective": "Arbeitsrecht: Aneignung gr\u00fcndlicher Kenntnisse im Individualarbeitsrecht sowie im kollektiven und \u00f6ffentlichen Arbeitsrecht.\r\n\r\nMediznrecht: \u00dcberblick \u00fcber das Rechtsgebiet des Medizinrechts aus privatrechtlicher Sicht, Umgang mit medizinrechtlichen Fragestellungen",
+            "olat": null,
+            "period": 20192,
+            "period_human": "HS19",
+            "prerecognitions": "Arbeitsrecht: Allgemeiner Teil des Obligationenrechts\r\n\r\nMedizinrecht: Personenrecht, Familienrecht, Haftpflichtrecht, Obligationenrecht AT",
+            "prerequisites": "Arbeitsrecht: keine\r\n\r\nMedizinrecht: Assessment, Besuch der Vorlesung Obligationenrecht AT",
+            "registration_end": null,
+            "registration_start": null,
+            "repeatability": "TWICE",
+            "responsible": [
+                {
+                    "_id": "587f7be29926d09674766827",
+                    "first_name": "Andrea",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "B\u00fcchler",
+                    "name": "Dr. Andrea B\u00fcchler",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr.",
+                    "uni_identifier": "01017047",
+                    "university": "UZH"
+                },
+                {
+                    "_id": "587fa65bfb791d9d62735c97",
+                    "first_name": "Wolfgang",
+                    "header_image": null,
+                    "image": null,
+                    "last_name": "Portmann",
+                    "name": "Dr. iur. Wolfgang Portmann",
+                    "responsible": [],
+                    "teaching": [],
+                    "title": "Dr. iur.",
+                    "uni_identifier": "01000769",
+                    "university": "UZH"
+                }
+            ],
+            "seats_restriction": null,
+            "structure": null,
+            "test": "Arbeitsrecht: Schriftliche Pr\u00fcfung.\r\nDie Pr\u00fcfung umfasst das Individualarbeitsrecht und das kollektive Arbeitsrecht sowie die Grundz\u00fcge des \u00d6ffentlichen Arbeitsrechts.\r\nNicht gepr\u00fcft werden die Arbeitsvertr\u00e4ge mit besonderem Zweck und mit besonderem Arbeitsort.Nicht gepr\u00fcft wird der Stoff der Randnoten 837\u2013914 und 962\u2013992 des Lehrbuchs Wolfgang Portmann/Jean-Fritz St\u00f6ckli, Schweizerisches Arbeitsrecht, 3. Aufl., Z\u00fcrich/St. Gallen 2013.\r\n\r\nMedizinrecht: schriftliche.\r\nPr\u00fcfungsstoff: Die in der Vorlesung behandelte Materie (vgl. allgemeine Beschreibung)",
+            "waiting_list": null
+        },
+        "userCount": 2
+    },
+    "faculty": "Recht",
+    "gradeStatistics_average": 4.44,
+    "gradeStatistics_count": 26,
+    "gradeStatistics_failed": 2,
+    "gradeStatistics_passed": 24,
+    "messages": 0,
+    "module_id": "50635926",
+    "name": "Labor and Employment Law & Medical Law",
+    "ratingSummary_average": 4.25,
+    "ratingSummary_total": 12,
+    "userCount_all": 243
+}

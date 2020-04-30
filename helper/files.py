@@ -1,5 +1,6 @@
 import csv
 import json
+import os
 
 def get_filenames():
     print('\n\nIn which file is the list with the module ids?')
@@ -71,5 +72,14 @@ def write_data_to_output_file(filename, data, fieldnames):
 
 def write_data_to_json(data):
     filename = data['module_id'] if data['module_id'] else 'xxx'
-    with open(filename + '.json', 'w') as f:
+    filepath = filename + '.json'
+    if not os.path.exists('json'):
+        try:
+            os.makedirs('json')
+            filepath = './json/' + filename + '.json'
+        except OSError:
+            pass
+    else: filepath = './json/' + filename + '.json'
+
+    with open(filepath, 'w') as f:
         f.write(json.dumps(data, indent=4, sort_keys=True))
