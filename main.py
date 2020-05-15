@@ -12,12 +12,8 @@ output_file = cwd +  '/' + output_filename
 
 module_ids = read_module_ids_from_input_file(input_file)
 
-print(module_ids)
-
 # remove potential duplicates
 module_ids = list(dict.fromkeys(module_ids))
-
-print(module_ids)
 
 print("\n\n\033[1;35;40m " + str(len(module_ids)) + " modules found in " + input_file + " \n")
 print("\033[1;35;40m Start processing. \n\n")

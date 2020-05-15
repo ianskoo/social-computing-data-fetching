@@ -54,6 +54,9 @@ class Module:
         # whole data set
         return self.__data
 
+    def get_ratings(self):
+        return self.__ratings
+
     def get_aggregated_semester_information(self):
         """
         aggregates all information which are specific to a semester and combines them in a
@@ -106,17 +109,24 @@ class Module:
 
     @staticmethod
     def fetch_ratings_data(module_id):
-        try:
-            url = 'https://bestande.ch/api/institution/uzh/module/' + str(module_id) + '/ratings'
-            r = requests.get(url).json()
-            if not r['success']:
-                raise RuntimeError('ERROR: Fetching ratings via API failed.')
-        except RuntimeError as e:
-            print(e)
-        except Exception as e:
-            print(e)
-        else:
-            return r['data']
+        all_ratings = []
+        offset = 0
+
+        while True:
+            try:
+                url = 'https://bestande.ch/api/institution/uzh/module/' + str(module_id) + '/ratings?offset=' + str(offset) + '&sort=newest'
+                r = requests.get(url).json()
+                if not r['success'] or r['data']['ratings'] == []: # or offset >= 45:
+                    break
+                    # raise RuntimeError('ERROR: Fetching ratings via API failed.')
+            except RuntimeError as e:
+                print(e)
+            except Exception as e:
+                print(e)
+            else:
+                all_ratings += r['data']['ratings']
+                offset += 15
+        return all_ratings
 
     @staticmethod
     def fetch_grades_data(module_id):

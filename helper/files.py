@@ -61,13 +61,17 @@ def write_header_to_output_file(filename, fieldnames):
     :return:
     '''
     with open(filename, 'w') as csv_file:
-        writer = csv.DictWriter(csv_file, fieldnames=fieldnames + semester_list, delimiter=';')
+        # writer = csv.DictWriter(csv_file, fieldnames=fieldnames + semester_list, delimiter=';')
+        writer = csv.DictWriter(csv_file, fieldnames=fieldnames, delimiter=';')
         writer.writeheader()
 
 
 def write_data_to_output_file(filename, data, fieldnames):
     with open(filename, 'a') as csv_file:
-        writer = csv.DictWriter(csv_file, fieldnames=fieldnames + semester_list, delimiter=';', extrasaction='ignore')
+        # print('\n\n\n --- writing to csv ---')
+        # print(data)
+        # writer = csv.DictWriter(csv_file, fieldnames=fieldnames + semester_list, delimiter=';', extrasaction='ignore')
+        writer = csv.DictWriter(csv_file, fieldnames=fieldnames, delimiter=';', extrasaction='ignore')
         writer.writerow(data)
 
 def write_data_to_json(data):
