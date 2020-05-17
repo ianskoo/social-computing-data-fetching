@@ -1,4 +1,13 @@
 ### Just stuff used while developing; you can ignore this ###
+from datetime import datetime
+
+date_string = '01-01-2020'
+date = datetime.strptime(date_string, '%d-%m-%Y')
+
+print(date)
+print(datetime.timestamp(date))
+
+print(datetime.timestamp(datetime.strptime('01-01-2020', '%d-%m-%Y')))
 
 # module_a = Module(50667400)
 #
