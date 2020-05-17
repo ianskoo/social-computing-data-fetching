@@ -1,3 +1,14 @@
+##################################################################
+
+print("\n\n\033[1;35;40m This script is not really used anymore.")
+print("\033[1;35;40m Use rating_grade_correlation.py to scrape data for hypothesis 1")
+print("\033[1;35;40m Or average_rating_and_grade_per_semester.py to scrape data for hypothesis 2")
+print("\n\n")
+
+exit(0)
+
+##################################################################
+
 import os
 from pprint import pprint
 from entities.module import Module
