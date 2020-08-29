@@ -72,5 +72,5 @@ for i in range(totMods):
 
 
 # Save the list to a file
-with open("id_list.txt", "w") as file:
+with open("module_list.txt", "w") as file:
     file.writelines(idList)
